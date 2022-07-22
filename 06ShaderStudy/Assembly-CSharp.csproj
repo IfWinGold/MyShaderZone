@@ -74,6 +74,7 @@
     <None Include="Assets\Shader\0721\0721NPR.shader" />
     <None Include="Assets\Shader\0701\Test0701Fresnel.shader" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
+    <None Include="Assets\Shader\0722\0722Test.shader" />
     <None Include="Assets\Shader\0629\Test0629_Fire.shader" />
     <None Include="Assets\Shader\0701\Test0701HoloGram.shader" />
     <None Include="Assets\Shader\0629\Test0629.shader" />
