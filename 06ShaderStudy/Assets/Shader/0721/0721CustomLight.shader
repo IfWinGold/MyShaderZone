@@ -9,6 +9,7 @@ Shader "Custom/0721CustomLight"
         _SpecPow("Specular Power",Range(10,200)) = 100
         _RimPow("RimPower",Range(0,10)) = 5
         _GlossTex("Gloss Tex",2D) = "white" {}
+        _GlossPow("GlossPower",Range(0,5)) = 0
     }
         SubShader
         {
@@ -16,7 +17,7 @@ Shader "Custom/0721CustomLight"
 
             CGPROGRAM
 
-            #pragma surface surf Test noambient
+            #pragma surface surf Test
             #pragma target 3.0
 
             sampler2D _MainTex;
@@ -26,6 +27,7 @@ Shader "Custom/0721CustomLight"
             float4 _RimCol;
             float _SpecPow;
             float _RimPow;
+            float _GlossPow;
 
             struct Input
             {
@@ -42,7 +44,7 @@ Shader "Custom/0721CustomLight"
                 fixed4 m = tex2D(_GlossTex, IN.uv_GlossTex);
                 o.Albedo = c.rgb;
                 o.Normal = UnpackNormal(tex2D(_BumpMap, IN.uv_BumpMap));
-                o.Gloss = m.a;
+                o.Gloss = m.a * _GlossPow;
                 o.Alpha = c.a;
             }
 
@@ -68,13 +70,9 @@ Shader "Custom/0721CustomLight"
                 float invrim = 1 - rim;
                 rimColor = pow(invrim, _RimPow) * _RimCol;
 
-
                 //Fake Spec term
                 float3 SpecColor2;
                 SpecColor2 = pow(rim, 50) * float3(0.2, 0.2, 0.2) * s.Gloss;
-
-
-
 
                 //final term
                 final.rgb = DiffColor.rgb + SpecColor.rgb + rimColor.rgb+ SpecColor2.rgb;

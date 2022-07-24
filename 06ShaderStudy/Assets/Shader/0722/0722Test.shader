@@ -13,7 +13,7 @@ Shader "Custom/0722Test"
         LOD 200
 
         CGPROGRAM        
-        #pragma surface surf Standard noambient
+        #pragma surface surf Standard
 
         // Use shader model 3.0 target, to get nicer looking lighting
         #pragma target 3.0

@@ -47,9 +47,7 @@ Shader "Custom/0721NPR02"
             else
             {
                 rim = -1;
-            }                
-
-
+            }              
             float4 final;
             final.rgb = s.Albedo * ndotl * _LightColor0.rgb * rim;
             final.a = s.Alpha;
