@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/jsu29/OneDrive/문서/GitHub/MyShaderZone/06ShaderStudy
+C:/Jung/GitHub/MyShaderZone/06ShaderStudy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52990
-Successfully changed project path to: C:/Users/jsu29/OneDrive/문서/GitHub/MyShaderZone/06ShaderStudy
-C:/Users/jsu29/OneDrive/문서/GitHub/MyShaderZone/06ShaderStudy
+60580
+Successfully changed project path to: C:/Jung/GitHub/MyShaderZone/06ShaderStudy
+C:/Jung/GitHub/MyShaderZone/06ShaderStudy
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.07 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 105.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/jsu29/OneDrive/문서/GitHub/MyShaderZone/06ShaderStudy/Assets
+[Subsystems] Discovering subsystems at path C:/Jung/GitHub/MyShaderZone/06ShaderStudy/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001211 seconds.
+Registered in 0.113476 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 31.99 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 32.19 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.622 seconds
+- Completed reload, in  4.414 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002274 seconds.
+Registered in 0.433564 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.735 seconds
+- Completed reload, in  3.145 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1779 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 105.6 MB.
-System memory in use after: 105.3 MB.
+Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.7 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2219.
-Total: 1.739100 ms (FindLiveObjects: 0.126100 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.312700 ms  DeleteObjects: 0.261900 ms)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2222.
+Total: 1.866800 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.052200 ms MarkObjects: 1.383400 ms  DeleteObjects: 0.289500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -79,1135 +79,921 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Light.unity
-  artifactKey: Guid(46983be799a6ad14a8132c7e9f8d340a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Light.unity using Guid(46983be799a6ad14a8132c7e9f8d340a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1c9820718c22f17171eb39cdd70c65') in 0.013233 seconds 
-  Import took 0.015415 seconds .
+  path: Assets/ComponyCharacter/Textures/Female_01_Acc_AlbedoTransparency.png
+  artifactKey: Guid(31d30f54ae2f95f4b82a33ed84458cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Acc_AlbedoTransparency.png using Guid(31d30f54ae2f95f4b82a33ed84458cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645e641fe702c1e779503997662d684f') in 0.050976 seconds 
+  Import took 0.053618 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(375a91d3b3d4b494f87916c2acef405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(375a91d3b3d4b494f87916c2acef405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10400a0f2c4519d16b27fcffe573475c') in 0.004559 seconds 
-  Import took 0.006853 seconds .
+  Time since last request: 0.000181 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Brown.psd
+  artifactKey: Guid(856c3f682935ee4498565739ddbbb97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Brown.psd using Guid(856c3f682935ee4498565739ddbbb97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0367ca42479911c49f60b2e4461dbd5') in 0.014169 seconds 
+  Import took 0.016629 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Scenes/CharScene.unity
-  artifactKey: Guid(2994f4fcf35604c44bf24aca720c0345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/CharScene.unity using Guid(2994f4fcf35604c44bf24aca720c0345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4099f0c85f56e7b086f447437c841dbb') in 0.004849 seconds 
-  Import took 0.007109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Scenes/Shader.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Shader.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a52136067ff1b2aee2afadd1e2f2f26') in 0.005064 seconds 
-  Import took 0.007455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 64.564397 seconds.
-  path: Assets/Resources/Wood/bark_brown_02_diff_4k.jpg
-  artifactKey: Guid(13c2e2c05942d034ebe2553cc50f48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Wood/bark_brown_02_diff_4k.jpg using Guid(13c2e2c05942d034ebe2553cc50f48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715c0ce6c3b9407f6e55d6aee7eddaff') in 0.052575 seconds 
-  Import took 0.055585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Resources/Wood/bark_brown_02_disp_4k.png
-  artifactKey: Guid(59733a6c674bf5a498b9e854fce5a80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Wood/bark_brown_02_disp_4k.png using Guid(59733a6c674bf5a498b9e854fce5a80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06027f4c4b8a6cd06eb7bf865dd63965') in 0.012306 seconds 
-  Import took 0.014658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Resources/Wood/bark_brown_02_diff_4k.jpg
-  artifactKey: Guid(13c2e2c05942d034ebe2553cc50f48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Wood/bark_brown_02_diff_4k.jpg using Guid(13c2e2c05942d034ebe2553cc50f48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715c0ce6c3b9407f6e55d6aee7eddaff') in 0.010175 seconds 
-  Import took 0.012642 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Resources/Wood/bark_brown_02_nor_gl_4k.exr
-  artifactKey: Guid(960cb8235206f744f8367d407368281d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Wood/bark_brown_02_nor_gl_4k.exr using Guid(960cb8235206f744f8367d407368281d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4859969973a07f528079e4edded7f31') in 0.037014 seconds 
-  Import took 0.039899 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002179 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.681 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1701 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.7 MB.
-System memory in use after: 101.0 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2227.
-Total: 1.854300 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.173700 ms  DeleteObjects: 0.522100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 74.388434 seconds.
-  path: Assets/Scenes/NewSurfaceShader.shader
-  artifactKey: Guid(80d3683e612f99644960d671112ede14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/NewSurfaceShader.shader using Guid(80d3683e612f99644960d671112ede14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e98c7d9dce4199f6add71039eb4bfc') in 0.021144 seconds 
-  Import took 0.023956 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003452 seconds.
-  path: Assets/Scenes/NewSurfaceShader.shader
-  artifactKey: Guid(80d3683e612f99644960d671112ede14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/NewSurfaceShader.shader using Guid(80d3683e612f99644960d671112ede14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e98c7d9dce4199f6add71039eb4bfc') in 0.003690 seconds 
-  Import took 0.006793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.699701 seconds.
-  path: Assets/Scenes/New Scene.unity
-  artifactKey: Guid(5b31dcc8ed0ee5c499dba34d8fad79e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/New Scene.unity using Guid(5b31dcc8ed0ee5c499dba34d8fad79e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82f4c719c02a3f7c36c84f31054745a') in 0.005216 seconds 
-  Import took 0.008155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.518443 seconds.
-  path: Assets/Scenes/New Lighting Settings.lighting
-  artifactKey: Guid(950a0071d75b29341b15d8b3a6bfac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/New Lighting Settings.lighting using Guid(950a0071d75b29341b15d8b3a6bfac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94fc73316a6c6b04510f08ebcb6eb8b') in 0.006030 seconds 
-  Import took 0.008514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002811 seconds.
-  path: Assets/Scenes/New Lighting Settings.lighting
-  artifactKey: Guid(950a0071d75b29341b15d8b3a6bfac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/New Lighting Settings.lighting using Guid(950a0071d75b29341b15d8b3a6bfac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94fc73316a6c6b04510f08ebcb6eb8b') in 0.002415 seconds 
-  Import took 0.004850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 316.177220 seconds.
-  path: Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs
-  artifactKey: Guid(9407ee9a251800d4c98e7e1add5507b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs using Guid(9407ee9a251800d4c98e7e1add5507b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4526d58f53f1a4171eaad8453a6518') in 0.005873 seconds 
-  Import took 0.008721 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000963 seconds.
-  path: Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs
-  artifactKey: Guid(9407ee9a251800d4c98e7e1add5507b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs using Guid(9407ee9a251800d4c98e7e1add5507b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4526d58f53f1a4171eaad8453a6518') in 0.001972 seconds 
-  Import took 0.004288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.896669 seconds.
-  path: Assets/Male Peasant Pack Cute Series/00 Tutorials
-  artifactKey: Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/00 Tutorials using Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a8d5b4075e5070d8f6354e73aa9979') in 0.005529 seconds 
-  Import took 0.008148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000804 seconds.
-  path: Assets/Male Peasant Pack Cute Series/00 Tutorials
-  artifactKey: Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/00 Tutorials using Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a8d5b4075e5070d8f6354e73aa9979') in 0.001818 seconds 
-  Import took 0.004285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.385638 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here
-  artifactKey: Guid(c556003adf0930247b16a731787d624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here using Guid(c556003adf0930247b16a731787d624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac409e0d8dd960c618fc983d30e2668') in 0.005087 seconds 
-  Import took 0.007601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001222 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here
-  artifactKey: Guid(c556003adf0930247b16a731787d624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here using Guid(c556003adf0930247b16a731787d624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac409e0d8dd960c618fc983d30e2668') in 0.001990 seconds 
-  Import took 0.004400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.691871 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene
-  artifactKey: Guid(e609ecd2a2b7e934aa75db204f2d6ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene using Guid(e609ecd2a2b7e934aa75db204f2d6ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb05c364572ae355575d34eb8a889694') in 0.005405 seconds 
-  Import took 0.007972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000981 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene
-  artifactKey: Guid(e609ecd2a2b7e934aa75db204f2d6ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene using Guid(e609ecd2a2b7e934aa75db204f2d6ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb05c364572ae355575d34eb8a889694') in 0.001916 seconds 
-  Import took 0.004384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.274215 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories
-  artifactKey: Guid(5d8defbc896e38442a5b15f58fe45c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories using Guid(5d8defbc896e38442a5b15f58fe45c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4241d103852004ab2ed116448312f67') in 0.005080 seconds 
-  Import took 0.007872 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000422 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories
-  artifactKey: Guid(5d8defbc896e38442a5b15f58fe45c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories using Guid(5d8defbc896e38442a5b15f58fe45c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4241d103852004ab2ed116448312f67') in 0.002043 seconds 
-  Import took 0.004660 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.440961 seconds.
-  path: Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 01.prefab
-  artifactKey: Guid(09dc77b567b36814a9f1e58843ee8ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 01.prefab using Guid(09dc77b567b36814a9f1e58843ee8ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0cd3dcab7fe0ed1744cf40fd144e3b') in 0.066032 seconds 
-  Import took 0.068752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.871666 seconds.
-  path: Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 02.prefab
-  artifactKey: Guid(a3716edd7cd86b446bda8f9fc36c9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 02.prefab using Guid(a3716edd7cd86b446bda8f9fc36c9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60176eb39b1da745bb725b651dfb720e') in 0.020791 seconds 
-  Import took 0.023862 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003817 seconds.
-  path: Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 02.prefab
-  artifactKey: Guid(a3716edd7cd86b446bda8f9fc36c9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/02 Customized Sample Prefabs/Sample 02.prefab using Guid(a3716edd7cd86b446bda8f9fc36c9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60176eb39b1da745bb725b651dfb720e') in 0.028887 seconds 
-  Import took 0.031685 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.859738 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Dusk.psd
-  artifactKey: Guid(27ba4d3871233904e990ff9fa44075a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Dusk.psd using Guid(27ba4d3871233904e990ff9fa44075a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1e356503a91239986cee91918cbcdc') in 0.012787 seconds 
-  Import took 0.015284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020479 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Dusk.psd
-  artifactKey: Guid(27ba4d3871233904e990ff9fa44075a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Dusk.psd using Guid(27ba4d3871233904e990ff9fa44075a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1e356503a91239986cee91918cbcdc') in 0.004787 seconds 
-  Import took 0.007382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.229987 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Night.psd
-  artifactKey: Guid(9996aed5c60349140b332134faa3d460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Night.psd using Guid(9996aed5c60349140b332134faa3d460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5bf45b0427b17f96595d74326cbb51') in 0.008418 seconds 
-  Import took 0.011109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 82.853270 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Pure.psd
-  artifactKey: Guid(93a79ef79085ae3429097358813a6b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Pure.psd using Guid(93a79ef79085ae3429097358813a6b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f720385eebf5ebc2dd20a4f1e76c03a') in 0.009704 seconds 
-  Import took 0.012533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.548391 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Bark.psd
-  artifactKey: Guid(9a1d59387ff7ad54e9f55bfbe893d181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Bark.psd using Guid(9a1d59387ff7ad54e9f55bfbe893d181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a9a4b3d91675b20f164d44b58754c2') in 0.008846 seconds 
-  Import took 0.011311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.581985 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Dusk.psd
-  artifactKey: Guid(259415e2723973448969bcf6f41e3698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Dusk.psd using Guid(259415e2723973448969bcf6f41e3698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe14eda4ad188ec0ae32517e12d47bf') in 0.008673 seconds 
-  Import took 0.011198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.400417 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Night.psd
-  artifactKey: Guid(efb4de630f0bf6643b069fab555d819b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Night.psd using Guid(efb4de630f0bf6643b069fab555d819b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7dc00d7a7fb3a8dc330ded5c1d3c26') in 0.009278 seconds 
-  Import took 0.012023 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.589021 seconds.
-  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Pure.psd
-  artifactKey: Guid(1700843dcc269a7449f7bf47f31416fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Tan Pure.psd using Guid(1700843dcc269a7449f7bf47f31416fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebecf2d7bef5bbb529521a3f4e3987b4') in 0.009065 seconds 
-  Import took 0.011531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 210.182117 seconds.
-  path: Assets/Robot Kyle
-  artifactKey: Guid(f708205360a3d084ab0fa4128dc93e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle using Guid(f708205360a3d084ab0fa4128dc93e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e038545924f73e4cb298845d8c4f30') in 0.006118 seconds 
-  Import took 0.008602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000876 seconds.
-  path: Assets/Robot Kyle
-  artifactKey: Guid(f708205360a3d084ab0fa4128dc93e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle using Guid(f708205360a3d084ab0fa4128dc93e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e038545924f73e4cb298845d8c4f30') in 0.001738 seconds 
-  Import took 0.004107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.852217 seconds.
-  path: Assets/Robot Kyle/Textures
-  artifactKey: Guid(9c7efb516f794ab45b60dee0e86403ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle/Textures using Guid(9c7efb516f794ab45b60dee0e86403ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c070dfd7dca1f3ca5208af01ebc55148') in 0.005389 seconds 
-  Import took 0.007997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000471 seconds.
-  path: Assets/Robot Kyle/Textures
-  artifactKey: Guid(9c7efb516f794ab45b60dee0e86403ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle/Textures using Guid(9c7efb516f794ab45b60dee0e86403ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c070dfd7dca1f3ca5208af01ebc55148') in 0.001782 seconds 
-  Import took 0.004222 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.322004 seconds.
-  path: Assets/Robot Kyle/Model
-  artifactKey: Guid(5390bd974592b404e9ee20a1d5243414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle/Model using Guid(5390bd974592b404e9ee20a1d5243414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1becb127bf8097edec564cae2c65c39f') in 0.005438 seconds 
-  Import took 0.008138 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000554 seconds.
-  path: Assets/Robot Kyle/Model
-  artifactKey: Guid(5390bd974592b404e9ee20a1d5243414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle/Model using Guid(5390bd974592b404e9ee20a1d5243414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1becb127bf8097edec564cae2c65c39f') in 0.001777 seconds 
-  Import took 0.004221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.607478 seconds.
-  path: Assets/Robot Kyle/Model/Robot Kyle.fbx
-  artifactKey: Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Robot Kyle/Model/Robot Kyle.fbx using Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60077f272c79aecb732733bd2a9ab2b8') in 0.115503 seconds 
-  Import took 0.118094 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 70.173953 seconds.
-  path: Assets/Standard Assets/ParticleSystems/Prefabs/Afterburner.prefab
-  artifactKey: Guid(d8c41be67f41aa545ae053b0b927f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/ParticleSystems/Prefabs/Afterburner.prefab using Guid(d8c41be67f41aa545ae053b0b927f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ee7d95ee19ee68bff6c5492643925e') in 0.009445 seconds 
-  Import took 0.012235 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab
-  artifactKey: Guid(21543d2b66928224f8a9536ff3811682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab using Guid(21543d2b66928224f8a9536ff3811682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b260bad757a7b9e60f1f1ae86af852fa') in 0.005661 seconds 
-  Import took 0.008091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab
-  artifactKey: Guid(28a5e79925e3ce04a82856c16a572cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab using Guid(28a5e79925e3ce04a82856c16a572cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7faea2766c738c8d7f2237ca1a3849ab') in 0.005993 seconds 
-  Import took 0.008369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 01.prefab
-  artifactKey: Guid(5541e45efbb3c6f44abd3f65d14e8173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 01.prefab using Guid(5541e45efbb3c6f44abd3f65d14e8173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343abd123716af6e947be83c8b43e302') in 0.011834 seconds 
-  Import took 0.014448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 01.prefab
-  artifactKey: Guid(fbac5a4fdbe38e748a09f575d5f487a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 01.prefab using Guid(fbac5a4fdbe38e748a09f575d5f487a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571a763a15d479bb2ba5fd6fb8aa2d4b') in 0.013209 seconds 
-  Import took 0.015749 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 01.prefab
-  artifactKey: Guid(70093e4586a9dbc4bbaedfbbe7396ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 01.prefab using Guid(70093e4586a9dbc4bbaedfbbe7396ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd45d815084156c15263a99247821fa') in 0.012051 seconds 
-  Import took 0.014861 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 02.prefab
-  artifactKey: Guid(de688ca3dbbfe80439bed09d434c174c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 02.prefab using Guid(de688ca3dbbfe80439bed09d434c174c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d70c13948c177912a0c0769801059b') in 0.011638 seconds 
-  Import took 0.014634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Blonde.prefab
-  artifactKey: Guid(bbf34249dceca7d4180a32d1a2c47900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Blonde.prefab using Guid(bbf34249dceca7d4180a32d1a2c47900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d9974469324bc5d9958baeee8d312a') in 0.008689 seconds 
-  Import took 0.011216 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 10.prefab
-  artifactKey: Guid(51e160de921c2bd448f9246d83d0f7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 10.prefab using Guid(51e160de921c2bd448f9246d83d0f7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac826371b214e5769753e4bd244a3c40') in 0.011515 seconds 
-  Import took 0.014287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 05.prefab
-  artifactKey: Guid(395d20fd43f2e234a92f24ee240eff39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 05.prefab using Guid(395d20fd43f2e234a92f24ee240eff39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69fb1a456ce4af5058ff6000fda7ae9') in 0.012971 seconds 
-  Import took 0.015491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab
-  artifactKey: Guid(031d08f52af1daa4f929b85221519426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab using Guid(031d08f52af1daa4f929b85221519426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f210f0591f73039b77c6846531f84c5') in 0.007455 seconds 
-  Import took 0.010466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000137 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Grey.prefab
-  artifactKey: Guid(d10950c921461754bb654f193a38eb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Grey.prefab using Guid(d10950c921461754bb654f193a38eb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3275b57ae78be414d3194cf4f6a6fc36') in 0.009008 seconds 
-  Import took 0.011642 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab
-  artifactKey: Guid(2a71c12ae885e4f80b5144a4652bbeb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab using Guid(2a71c12ae885e4f80b5144a4652bbeb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd08faf9ab7f3b62c8f7c9b0aaee431c') in 0.006256 seconds 
-  Import took 0.008792 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 09.prefab
-  artifactKey: Guid(17d1bf488aa5f8e4da3b53bae1755525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 09.prefab using Guid(17d1bf488aa5f8e4da3b53bae1755525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4108416022175aafb1333d9e2c2dd91c') in 0.011531 seconds 
-  Import took 0.014254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 08.prefab
-  artifactKey: Guid(88ec0626e349391458b0bccb031d6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 08.prefab using Guid(88ec0626e349391458b0bccb031d6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89cd9af5e6b336df2feb5774adad58ca') in 0.011804 seconds 
-  Import took 0.014528 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Brown.prefab
-  artifactKey: Guid(dd0a4496dd67cb149a89349a60b6a5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Brown.prefab using Guid(dd0a4496dd67cb149a89349a60b6a5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2638105a35387cb944fd0017155b6e8d') in 0.009118 seconds 
-  Import took 0.011746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Brown.prefab
-  artifactKey: Guid(19af5208cfe64f24b95f7fb89858d18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Brown.prefab using Guid(19af5208cfe64f24b95f7fb89858d18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab30a2c80b91c5977fe7c8651ddcd04') in 0.009259 seconds 
-  Import took 0.011852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Orange.prefab
-  artifactKey: Guid(ec9c477745503c4418f75e001015be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Orange.prefab using Guid(ec9c477745503c4418f75e001015be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58a4c5bbee6e0504007a936f67f639d') in 0.009553 seconds 
-  Import took 0.011961 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000134 seconds.
-  path: Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab
-  artifactKey: Guid(90d8e09703679534295bd2cacb73d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab using Guid(90d8e09703679534295bd2cacb73d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea86d6e7855068db5844fbb42c1f3ba') in 0.023205 seconds 
-  Import took 0.025702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Standard Assets/Vehicles/Car/Prefabs/CarWaypointBased.prefab
-  artifactKey: Guid(0fb4610dba67fc24cb2a6674fb155fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Car/Prefabs/CarWaypointBased.prefab using Guid(0fb4610dba67fc24cb2a6674fb155fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4c29dfe1d0ac49327f3d4952c18c00') in 0.043563 seconds 
-  Import took 0.046529 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000136 seconds.
-  path: Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab
-  artifactKey: Guid(5d2e4237b4429b34fae4c9eb3cd9efd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab using Guid(5d2e4237b4429b34fae4c9eb3cd9efd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269a8086e610a4bf98f7e236f36cd780') in 0.010052 seconds 
-  Import took 0.012589 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 09.prefab
-  artifactKey: Guid(a941864593018bd43b50f23227d3249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 09.prefab using Guid(a941864593018bd43b50f23227d3249c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151b74b91b332a9d5310035e9f90d702') in 0.011379 seconds 
-  Import took 0.014177 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Back Props (+Back)/Basket Empty.prefab
-  artifactKey: Guid(60948d483eb81a9469fbb358f60dd806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Back Props (+Back)/Basket Empty.prefab using Guid(60948d483eb81a9469fbb358f60dd806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0e07db1eb61b12931e476603a7182c') in 0.009447 seconds 
-  Import took 0.012149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/SampleScenes/Prefabs/Box.prefab
-  artifactKey: Guid(d29ba28bd5caaed429838de8bac7be72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/Box.prefab using Guid(d29ba28bd5caaed429838de8bac7be72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1012652aed8495bd22ebddf54d74f3') in 0.019583 seconds 
-  Import took 0.022102 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 10.prefab
-  artifactKey: Guid(df2a6eff1c9d20641b3eeff60d00ca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 10.prefab using Guid(df2a6eff1c9d20641b3eeff60d00ca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aa7a88cad30844ccda0a0a87aa519f') in 0.014220 seconds 
-  Import took 0.016725 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000130 seconds.
-  path: Assets/Standard Assets/ParticleSystems/Prefabs/DustStorm.prefab
-  artifactKey: Guid(1f7aa4d40edff6e48b549003cad031e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/ParticleSystems/Prefabs/DustStorm.prefab using Guid(1f7aa4d40edff6e48b549003cad031e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4abe47df619485fd059e470f6677b3a3') in 0.006143 seconds 
-  Import took 0.008601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 07.prefab
-  artifactKey: Guid(3ab2c9a42e091cc42a02785c45d4cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 07.prefab using Guid(3ab2c9a42e091cc42a02785c45d4cedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc42cfd6917806b63c8d809aad719e9a') in 0.011333 seconds 
-  Import took 0.014462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 10.prefab
-  artifactKey: Guid(4d74394bf815100438dbd6d142633766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 10.prefab using Guid(4d74394bf815100438dbd6d142633766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5368b899bfb44effa133c4f7302a3b') in 0.013244 seconds 
-  Import took 0.016250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000144 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Grey.prefab
-  artifactKey: Guid(1bd2d82be8a13354dbd32de98291de6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Grey.prefab using Guid(1bd2d82be8a13354dbd32de98291de6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029b1c4652389021dd7e2acbfbd51bde') in 0.009246 seconds 
-  Import took 0.012471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab
-  artifactKey: Guid(af6c1d82d375aa54c81180d14d62761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab using Guid(af6c1d82d375aa54c81180d14d62761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2988129f8d975a7790a7e1c88015ab28') in 0.008153 seconds 
-  Import took 0.010811 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Blonde.prefab
-  artifactKey: Guid(b1e3fcb5712b6494fa527cfbd74a5849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Blonde.prefab using Guid(b1e3fcb5712b6494fa527cfbd74a5849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f86833e2456b860577f0f6c682b24a') in 0.009250 seconds 
-  Import took 0.011721 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 07.prefab
-  artifactKey: Guid(0026bb68db6ae85478d984653cd57294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 07.prefab using Guid(0026bb68db6ae85478d984653cd57294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd862307c701b8e6f9f03f1fd51ff3c60') in 0.011647 seconds 
-  Import took 0.014221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000134 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 02.prefab
-  artifactKey: Guid(1e888bd6266fdfa43b63c466a52ba649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 02.prefab using Guid(1e888bd6266fdfa43b63c466a52ba649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be69c5f05937deb1bfee085632393e53') in 0.012656 seconds 
-  Import took 0.015255 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 04.prefab
-  artifactKey: Guid(14e8f9d859f213a49ab17be210913b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 04.prefab using Guid(14e8f9d859f213a49ab17be210913b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ca2c96f7a75359cb2c7c811e3e73c5') in 0.012684 seconds 
+  Time since last request: 0.000191 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Black.psd
+  artifactKey: Guid(52324f44c8fa94a4e8e93214644616fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Black.psd using Guid(52324f44c8fa94a4e8e93214644616fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58c58582416f2f535ef335771479f18') in 0.012847 seconds 
   Import took 0.015251 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Blonde.prefab
-  artifactKey: Guid(a48806fc9a3f44d4092b7a18edc9220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Blonde.prefab using Guid(a48806fc9a3f44d4092b7a18edc9220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796eb72149a79032c90eba0470301bd6') in 0.009355 seconds 
-  Import took 0.012010 seconds .
+  Time since last request: 0.000167 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Nature.psd
+  artifactKey: Guid(f9dcb94833b77f242bb596fa67bca1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Nature.psd using Guid(f9dcb94833b77f242bb596fa67bca1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a42fcee56e926fccd1160454e10cbff') in 0.012235 seconds 
+  Import took 0.014789 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 08.prefab
-  artifactKey: Guid(bc057dda79aeec4458fa4c89d0beb166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 08.prefab using Guid(bc057dda79aeec4458fa4c89d0beb166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034803d55c97caf0ee0ba2e92ddc7a10') in 0.012972 seconds 
-  Import took 0.015639 seconds .
+  Time since last request: 0.000205 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Grey.psd
+  artifactKey: Guid(1dcb44fc3fa29a349a952bc75a65983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Grey.psd using Guid(1dcb44fc3fa29a349a952bc75a65983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7764acb713c999f9b06d2663f08a74') in 0.012296 seconds 
+  Import took 0.014821 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Orange.prefab
-  artifactKey: Guid(b68321e0cc5d7e34ca00316cca10ff80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Orange.prefab using Guid(b68321e0cc5d7e34ca00316cca10ff80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94967622bc9b6be5c983653ea0234c4f') in 0.009993 seconds 
-  Import took 0.012631 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 06.prefab
-  artifactKey: Guid(5c4a336541468ec40842828e16fdd1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 06.prefab using Guid(5c4a336541468ec40842828e16fdd1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02392447c8766e428d8da4c725fa2d6') in 0.011267 seconds 
-  Import took 0.014406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 03.prefab
-  artifactKey: Guid(7063dd440a924ed4b864e61854540670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 03.prefab using Guid(7063dd440a924ed4b864e61854540670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560c45921200580f47a758c0aff7546a') in 0.012162 seconds 
-  Import took 0.015051 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJetAI.prefab
-  artifactKey: Guid(6f7604981ce4c064cbe5284c437c5699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJetAI.prefab using Guid(6f7604981ce4c064cbe5284c437c5699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99413bf5d4f0b951c4388d24b0839c3e') in 0.098305 seconds 
-  Import took 0.103968 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000137 seconds.
-  path: Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
-  artifactKey: Guid(2169821f0567671499a5c10104c69c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab using Guid(2169821f0567671499a5c10104c69c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346d3cad960c41fc386002e066219f2f') in 0.019282 seconds 
-  Import took 0.021767 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Black.prefab
-  artifactKey: Guid(4008f458f907a4a4ea536c302d7ff47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Black.prefab using Guid(4008f458f907a4a4ea536c302d7ff47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be3f5cb0b72a9f0359fe09e78162e956') in 0.009411 seconds 
-  Import took 0.012139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab
-  artifactKey: Guid(ab33e6080ae416b4d899f39fa8951b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab using Guid(ab33e6080ae416b4d899f39fa8951b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dedb823c2049aef4474ef2063990a1d') in 0.009508 seconds 
-  Import took 0.012409 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropellerAi.prefab
-  artifactKey: Guid(cd707c1f484f43249bab272ac76a0174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropellerAi.prefab using Guid(cd707c1f484f43249bab272ac76a0174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f0f27eb851e8e6fcde4746366ef3cc') in 0.068400 seconds 
-  Import took 0.073675 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Standard Assets/2D/Prefabs/CratePink.prefab
-  artifactKey: Guid(18fcd494ab71841d695135246693eb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/2D/Prefabs/CratePink.prefab using Guid(18fcd494ab71841d695135246693eb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919583bc001d51644509724a29c0d5b0') in 0.011317 seconds 
-  Import took 0.013671 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJet.prefab
-  artifactKey: Guid(147d826ca4c5a834a9dfe5db390c47f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJet.prefab using Guid(147d826ca4c5a834a9dfe5db390c47f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c6d9a3ab45557f43eed8750084e41c') in 0.079815 seconds 
-  Import took 0.085322 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 06.prefab
-  artifactKey: Guid(f4432d8857f22744c95ee80212c5c1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 06.prefab using Guid(f4432d8857f22744c95ee80212c5c1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334eec51262ae2efb95f41bf3bf70096') in 0.011909 seconds 
-  Import took 0.014728 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 04.prefab
-  artifactKey: Guid(b15813bba3d58b842ac45df5f7531d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 04.prefab using Guid(b15813bba3d58b842ac45df5f7531d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacf5995b35e1bedfa9f5b244800eb20') in 0.013063 seconds 
-  Import took 0.015868 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Fire Male Outfit Fan 01.prefab
-  artifactKey: Guid(8c45d10581c4c1c4aa434c5af19283c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Fire Male Outfit Fan 01.prefab using Guid(8c45d10581c4c1c4aa434c5af19283c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b4b76ab7de6f0abeeb7913af6afecd') in 0.011832 seconds 
-  Import took 0.014708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000134 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 05.prefab
-  artifactKey: Guid(9f26faa5e5d8dc5499e25cd5a63fe1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 05.prefab using Guid(9f26faa5e5d8dc5499e25cd5a63fe1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178367def82ee60b838b5f3dcd1e3570') in 0.013030 seconds 
-  Import took 0.015594 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/SampleScenes/Prefabs/BoxPile.prefab
-  artifactKey: Guid(ff3366103894bec429eeaa9b86b595e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/BoxPile.prefab using Guid(ff3366103894bec429eeaa9b86b595e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a815f57baa6a798ce7d623a5734ff28') in 0.009709 seconds 
-  Import took 0.012450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab
-  artifactKey: Guid(851d11542d51c464e89acf6875599172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab using Guid(851d11542d51c464e89acf6875599172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e373c23cafba29dda24d2745e3e97c') in 0.007778 seconds 
-  Import took 0.010506 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 05.prefab
-  artifactKey: Guid(75fd28b3b91249643a6c93c28d45d31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 05.prefab using Guid(75fd28b3b91249643a6c93c28d45d31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296b6d659c41ff9e34481556c6dfd068') in 0.011767 seconds 
-  Import took 0.014870 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab
-  artifactKey: Guid(b241b59d6a89aff4fbf0bce77e644761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab using Guid(b241b59d6a89aff4fbf0bce77e644761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd150690c918ee158907b847f390574a5') in 0.010913 seconds 
-  Import took 0.013475 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000130 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Grey.prefab
-  artifactKey: Guid(4a7c267e9cb7c8244abe4c13e14bfd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 01 Grey.prefab using Guid(4a7c267e9cb7c8244abe4c13e14bfd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2808e1fb973d778b34370649ada3f503') in 0.009475 seconds 
-  Import took 0.012042 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000134 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 01.prefab
-  artifactKey: Guid(85e3e795eb4bbb548abd46ee8abbc66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 01.prefab using Guid(85e3e795eb4bbb548abd46ee8abbc66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6793e0892ae119bd842b43432d3b0850') in 0.012328 seconds 
-  Import took 0.015267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 02.prefab
-  artifactKey: Guid(628ec03af9d85444f82f8f5efc068a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 02.prefab using Guid(628ec03af9d85444f82f8f5efc068a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08837b49ced54a4fe7fb0b0d2696e3b') in 0.010851 seconds 
-  Import took 0.013353 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab
-  artifactKey: Guid(2b127815fd0f2074eae3a0c6a4786d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab using Guid(2b127815fd0f2074eae3a0c6a4786d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37ec7578745cf3a8ebf7adcda19b242') in 0.009366 seconds 
-  Import took 0.011804 seconds .
+  Time since last request: 0.000169 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Grey.psd
+  artifactKey: Guid(8f3b7ef7428c9b74da80dfe5d278fffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Grey.psd using Guid(8f3b7ef7428c9b74da80dfe5d278fffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a3b9bbd81edcbe4992ce34ac7140e5') in 0.012060 seconds 
+  Import took 0.014624 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000177 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 04.prefab
-  artifactKey: Guid(09cb15d32790b934f9135a440291acca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 04.prefab using Guid(09cb15d32790b934f9135a440291acca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5c66ff4c913ca2643ea95d0cb40ddd') in 0.013201 seconds 
-  Import took 0.015968 seconds .
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Dark.psd
+  artifactKey: Guid(4f5dd95fcef233242988b4f8407c5312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Dark.psd using Guid(4f5dd95fcef233242988b4f8407c5312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c655c5b28941ae4d7053e9cd000dbd') in 0.012094 seconds 
+  Import took 0.014489 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab
-  artifactKey: Guid(0e7ee4df08df88c4880f43398f9ad2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab using Guid(0e7ee4df08df88c4880f43398f9ad2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a377ca463b2d55f57b1c27df244c5bd') in 0.021335 seconds 
-  Import took 0.024479 seconds .
+  Time since last request: 0.000223 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Brown.psd
+  artifactKey: Guid(65f8c67cbb45a274380c27f99c7eb74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Brown.psd using Guid(65f8c67cbb45a274380c27f99c7eb74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7384eaa7d57805a9b294edf893183dc') in 0.011263 seconds 
+  Import took 0.013830 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Brown.prefab
-  artifactKey: Guid(8d17396b6b9ea6b409c3749833cde5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Brown.prefab using Guid(8d17396b6b9ea6b409c3749833cde5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218705eb26525b182a3fcfa90029bfe1') in 0.008127 seconds 
-  Import took 0.010536 seconds .
+  Time since last request: 0.000177 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Black.psd
+  artifactKey: Guid(5b8b426e4f7e30744a74c02b1e5c343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Black.psd using Guid(5b8b426e4f7e30744a74c02b1e5c343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca4310b54744d5815f5c14452e9d8e4a') in 0.011194 seconds 
+  Import took 0.013514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Shoes_AlbedoTransparency.png
+  artifactKey: Guid(41f4853c3e8ab5e4c963a6154ddc5a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Shoes_AlbedoTransparency.png using Guid(41f4853c3e8ab5e4c963a6154ddc5a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88485067457bf23dddc1dd15d0e28904') in 0.012228 seconds 
+  Import took 0.014599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Aqua.psd
+  artifactKey: Guid(12cc2fcb1e5105542819f46af6a76675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Aqua.psd using Guid(12cc2fcb1e5105542819f46af6a76675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebfb273c42b0a7e3339657320135a27') in 0.011890 seconds 
+  Import took 0.014264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Bark.psd
+  artifactKey: Guid(ee4b4e0e3462aca469a02d30d44a58e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Fair Bark.psd using Guid(ee4b4e0e3462aca469a02d30d44a58e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629ebf7b11d8740eff7e23fe7aae4f74') in 0.013351 seconds 
+  Import took 0.015741 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000146 seconds.
-  path: Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab
-  artifactKey: Guid(0eb16b4b3e362ef4f97494dd0e686c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab using Guid(0eb16b4b3e362ef4f97494dd0e686c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd325783e698c0a998c45ceebad03da42') in 0.008578 seconds 
-  Import took 0.011365 seconds .
+  path: Assets/Robot Kyle/Textures/Robot_Color.tga
+  artifactKey: Guid(0a0e8af2869fa45f78e25460db578482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color.tga using Guid(0a0e8af2869fa45f78e25460db578482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7348c4927986921a086983f5a6cbbf96') in 0.009280 seconds 
+  Import took 0.011803 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Black.prefab
-  artifactKey: Guid(694fe910063d6794c986855429c4d3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 03 Black.prefab using Guid(694fe910063d6794c986855429c4d3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308cc173675290408ca9b9503d534e6b') in 0.008469 seconds 
-  Import took 0.010936 seconds .
+  Time since last request: 0.000152 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Bottom_MetallicSmoothness.png
+  artifactKey: Guid(301b36429ebd2d243b4306b0177d335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Bottom_MetallicSmoothness.png using Guid(301b36429ebd2d243b4306b0177d335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f89f416f93472d22454406a4d3eec10') in 0.020862 seconds 
+  Import took 0.023560 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 09.prefab
-  artifactKey: Guid(906250a3156509f4caa608475f1e9b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 09.prefab using Guid(906250a3156509f4caa608475f1e9b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878d5a329acc1ecf503e76d1c55fb031') in 0.011316 seconds 
-  Import took 0.013768 seconds .
+  Time since last request: 0.000138 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Hair.png
+  artifactKey: Guid(610f3de9d9c484d49bb9a9862b0ce367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Hair.png using Guid(610f3de9d9c484d49bb9a9862b0ce367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc728ecc45422d97e776ca5c9004517') in 0.013699 seconds 
+  Import took 0.016026 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 03.prefab
-  artifactKey: Guid(69cf2f8fe68e97a4f8fa9ca9bbf7f357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 03.prefab using Guid(69cf2f8fe68e97a4f8fa9ca9bbf7f357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a362e6234943ea8b338c67c69cbe16ea') in 0.011297 seconds 
-  Import took 0.013747 seconds .
+  Time since last request: 0.000148 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Normal.tga
+  artifactKey: Guid(94c473c9137744d7eabd829f1150da8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Normal.tga using Guid(94c473c9137744d7eabd829f1150da8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92f3c7d43e7877d24782cc6f200cdac') in 0.025594 seconds 
+  Import took 0.028054 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 08.prefab
-  artifactKey: Guid(6b50429f34c913e41b79a46ff64f553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 08.prefab using Guid(6b50429f34c913e41b79a46ff64f553e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6afc5447e4518b340142bc9ad342406') in 0.011016 seconds 
-  Import took 0.013582 seconds .
+  Time since last request: 0.000153 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Orange.psd
+  artifactKey: Guid(c9633cf78b7462946b446fa3a71ed3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Orange.psd using Guid(c9633cf78b7462946b446fa3a71ed3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6df24a735fa743827014e86712048e') in 0.012030 seconds 
+  Import took 0.014490 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Black.prefab
-  artifactKey: Guid(2b69a82f6be67824fb1b49e87fa85e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Black.prefab using Guid(2b69a82f6be67824fb1b49e87fa85e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f503179c9811bc430fed0d153113a63') in 0.008447 seconds 
-  Import took 0.010742 seconds .
+  Time since last request: 0.000164 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Grey.psd
+  artifactKey: Guid(0fb34d667931c0140b9af9b2ea8052d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Grey.psd using Guid(0fb34d667931c0140b9af9b2ea8052d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11cc1b7817c9ad7985ced1479c34442d') in 0.011928 seconds 
+  Import took 0.015027 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab
-  artifactKey: Guid(645413a00f7bd0242bbd6d0e5eb6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab using Guid(645413a00f7bd0242bbd6d0e5eb6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7edade0bfee6ea78d68252c7ec41102') in 0.006111 seconds 
-  Import took 0.008574 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 03.prefab
-  artifactKey: Guid(d31c477b298a0dc4b99d4b9fd50af507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 03.prefab using Guid(d31c477b298a0dc4b99d4b9fd50af507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54028695735d46b02c0755920ec2e79b') in 0.013666 seconds 
-  Import took 0.016392 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/SampleScenes/Prefabs/CameraSwitch.prefab
-  artifactKey: Guid(fdc378243b95c2144aa66bfc382d1b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/CameraSwitch.prefab using Guid(fdc378243b95c2144aa66bfc382d1b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b71b1d30af31aed5878aaf4cd387fe') in 0.010726 seconds 
-  Import took 0.013267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 10.prefab
-  artifactKey: Guid(1fc42bec9a9c7104585d2d085421a0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 10.prefab using Guid(1fc42bec9a9c7104585d2d085421a0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ec7218b30be05badbab501a1043070') in 0.012019 seconds 
-  Import took 0.014951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 02.prefab
-  artifactKey: Guid(d7af7029d00f3884686fdceca0b945da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 02.prefab using Guid(d7af7029d00f3884686fdceca0b945da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4bb0e9a3068785b3a737018658e915') in 0.012821 seconds 
-  Import took 0.015513 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Orange.prefab
-  artifactKey: Guid(c56a4cea125321d47ad491143678e402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Standard Faces (+ Head)/Face Male 02 Orange.prefab using Guid(c56a4cea125321d47ad491143678e402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc2cb22b8311109289c566e9ba16a22') in 0.009607 seconds 
-  Import took 0.012543 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab
-  artifactKey: Guid(87a2357765801c34292d6718d8b4d770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab using Guid(87a2357765801c34292d6718d8b4d770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe351028771883391d815586cf82fc4') in 0.016834 seconds 
-  Import took 0.019729 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
-  artifactKey: Guid(174090ae7f9eff84abe76f0ff062efac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab using Guid(174090ae7f9eff84abe76f0ff062efac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f058692c9b9ece05adb4fa78b7c98309') in 0.007776 seconds 
-  Import took 0.010266 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 05.prefab
-  artifactKey: Guid(8b8a887dbeff5b047a982aca16b660e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 05.prefab using Guid(8b8a887dbeff5b047a982aca16b660e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5e29f8b986ea71bad9e933e821fd67') in 0.012801 seconds 
-  Import took 0.015546 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/SampleScenes/Prefabs/CameraSwitchUI.prefab
-  artifactKey: Guid(b3495d363d7ccba40bc3e92c1a184e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/CameraSwitchUI.prefab using Guid(b3495d363d7ccba40bc3e92c1a184e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1d668943ef1b5092653542d18ddaa5') in 0.006980 seconds 
-  Import took 0.010225 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 06.prefab
-  artifactKey: Guid(e0848d4777b362a4db036f7e62f115a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 06.prefab using Guid(e0848d4777b362a4db036f7e62f115a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97ccaf02c55c4e30b3770b6d1052112') in 0.015409 seconds 
-  Import took 0.019007 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 06.prefab
-  artifactKey: Guid(c9d4d56dfcc947046bf3d1c33a4c38e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 06.prefab using Guid(c9d4d56dfcc947046bf3d1c33a4c38e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e82527134839d54d15ff1cf21ce0dd4') in 0.012939 seconds 
-  Import took 0.015662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 09.prefab
-  artifactKey: Guid(86f1a39069231a24688a2d7dea350121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 09.prefab using Guid(86f1a39069231a24688a2d7dea350121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a42d8c55997aa9a0a7fce30296deb61') in 0.012380 seconds 
-  Import took 0.015210 seconds .
+  Time since last request: 0.000138 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Blonde.psd
+  artifactKey: Guid(46941359eb123f04db1b0b7492f97a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Blonde.psd using Guid(46941359eb123f04db1b0b7492f97a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b354b3ac750149147e5c1deaea4e2c') in 0.011382 seconds 
+  Import took 0.014036 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000203 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Tools (+R Hand)/Axe.prefab
-  artifactKey: Guid(c7ee6c159282f2a489b72c5143dc9b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Tools (+R Hand)/Axe.prefab using Guid(c7ee6c159282f2a489b72c5143dc9b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbbc6c3dcf8807b1061d022920637a5') in 0.010038 seconds 
-  Import took 0.012663 seconds .
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Fire.psd
+  artifactKey: Guid(88e166531e161164e9ed91b7b35cdb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Fair Fire.psd using Guid(88e166531e161164e9ed91b7b35cdb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057743475c4762d463d5e06897bb1037') in 0.013749 seconds 
+  Import took 0.016565 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 08.prefab
-  artifactKey: Guid(732ecf13d19c47144af5936685fd8d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Aqua Male Outfit Fan 08.prefab using Guid(732ecf13d19c47144af5936685fd8d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffb96b27fdc8967ae9d9198560b09b5') in 0.013063 seconds 
-  Import took 0.015661 seconds .
+  Time since last request: 0.000200 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Bottom_Normal.png
+  artifactKey: Guid(7ad6cd82b9a83b04f961317fbadbc9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Bottom_Normal.png using Guid(7ad6cd82b9a83b04f961317fbadbc9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7de514b3e5116ce9e25512074a0a244') in 0.014273 seconds 
+  Import took 0.016583 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 04.prefab
-  artifactKey: Guid(4fff621841e5e254785dc8c74ee7069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 04.prefab using Guid(4fff621841e5e254785dc8c74ee7069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9006ac7411106ffa5f476c3f90a216a2') in 0.012113 seconds 
-  Import took 0.014773 seconds .
+  Time since last request: 0.000137 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Top_AlbedoTransparency(Normal).png
+  artifactKey: Guid(5c09ce87658463643b041f123b5072d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Top_AlbedoTransparency(Normal).png using Guid(5c09ce87658463643b041f123b5072d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6ef09d5f1c90acf98df33b671ada88') in 0.016151 seconds 
+  Import took 0.018529 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/SampleScenes/Prefabs/BoxSmall.prefab
-  artifactKey: Guid(75c27bf47f501a74fa5723911612c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Prefabs/BoxSmall.prefab using Guid(75c27bf47f501a74fa5723911612c226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb2499d7057c782eb47bc48a4647dd4') in 0.008706 seconds 
-  Import took 0.011365 seconds .
+  Time since last request: 0.000143 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Blonde.psd
+  artifactKey: Guid(2be79e4465ceb514794cc7014ebb7e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Blonde.psd using Guid(2be79e4465ceb514794cc7014ebb7e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83b33744edb0cbe8bf1c3cfe09fe1d4') in 0.010787 seconds 
+  Import took 0.013300 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 07.prefab
-  artifactKey: Guid(ecf66188b61c645429f4c612c4c426b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Bark Male Outfit Fan 07.prefab using Guid(ecf66188b61c645429f4c612c4c426b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ac67ead7840162fd141fcc567287cb') in 0.012133 seconds 
-  Import took 0.015227 seconds .
+  Time since last request: 0.000157 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Blonde.psd
+  artifactKey: Guid(a470ee1f65eaaa846b14242e8741d2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Blonde.psd using Guid(a470ee1f65eaaa846b14242e8741d2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43ae1eb00a92630a61b1d054e0b93c5') in 0.011609 seconds 
+  Import took 0.013989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Black.psd
+  artifactKey: Guid(3378566dbeb6a9c48b00a8a2f780c4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 02 Black.psd using Guid(3378566dbeb6a9c48b00a8a2f780c4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd760b9d9616a71d2f0ba609f4354d9ac') in 0.011504 seconds 
+  Import took 0.014034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Orange.psd
+  artifactKey: Guid(6d24b044cdc0395408b5c32d28102ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 01 Orange.psd using Guid(6d24b044cdc0395408b5c32d28102ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e43f0b7acb2b579d3890aaf9f3a8ae') in 0.011307 seconds 
+  Import took 0.013777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Bottom_AlbedoTransparency.png
+  artifactKey: Guid(d408f36e2aa756c46ab29ede950113e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Bottom_AlbedoTransparency.png using Guid(d408f36e2aa756c46ab29ede950113e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e849bca1808b5ea0de2616fce884eb') in 0.013030 seconds 
+  Import took 0.015627 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000187 seconds.
-  path: Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropeller.prefab
-  artifactKey: Guid(7e1741de780e13f42a448fdb5b60c1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropeller.prefab using Guid(7e1741de780e13f42a448fdb5b60c1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224c602eee2574b6a396b49a6b6c1b3b') in 0.065508 seconds 
-  Import took 0.071254 seconds .
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Brown.psd
+  artifactKey: Guid(79bf1966598360c439a027225bf58182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Brown.psd using Guid(79bf1966598360c439a027225bf58182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1225567dcd77a3d4e22a1af1b281fbc4') in 0.011631 seconds 
+  Import took 0.014065 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Standard Assets/ParticleSystems/Prefabs/DustStormMobile.prefab
-  artifactKey: Guid(ed1c797ec3736704db03a0d64d010e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/ParticleSystems/Prefabs/DustStormMobile.prefab using Guid(ed1c797ec3736704db03a0d64d010e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db2a500046bbfa325261c1e8723fc55') in 0.006764 seconds 
-  Import took 0.009302 seconds .
+  Time since last request: 0.000160 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Orange.psd
+  artifactKey: Guid(9b6ac32f7b225c74fb635d606b8e68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Face Male 03 Orange.psd using Guid(9b6ac32f7b225c74fb635d606b8e68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bdae3b9b22be6353eeda483661a5cc9') in 0.010925 seconds 
+  Import took 0.013746 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Back Props (+Back)/Basket Vegetables.prefab
-  artifactKey: Guid(1c7e1e7f2a3e4c04fbbf364c0a354c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/02 Attach Weapons and Accessories/Back Props (+Back)/Basket Vegetables.prefab using Guid(1c7e1e7f2a3e4c04fbbf364c0a354c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8147dd74e45ee7b2ff800aa45706af2b') in 0.010962 seconds 
-  Import took 0.013672 seconds .
+  Time since last request: 0.000144 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Top_AlbedoTransparency.png
+  artifactKey: Guid(4de7bd6e0b44778489b60282ba4dd495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Top_AlbedoTransparency.png using Guid(4de7bd6e0b44778489b60282ba4dd495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2273d875919aeccb876e4b5e8eafa3e') in 0.013093 seconds 
+  Import took 0.015595 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 07.prefab
-  artifactKey: Guid(dbfc038c0c40a49498c20718d7ac0aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dark Male Outfit Fan 07.prefab using Guid(dbfc038c0c40a49498c20718d7ac0aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd248a86f58d0d8614034a0bc0d0e9d38') in 0.013576 seconds 
-  Import took 0.016158 seconds .
+  Time since last request: 0.000158 seconds.
+  path: Assets/Resources/BookResource/dot.tga
+  artifactKey: Guid(8888852006a86614590c1da3fb0226ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/dot.tga using Guid(8888852006a86614590c1da3fb0226ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095c8663127b867492510137a09579a9') in 0.011336 seconds 
+  Import took 0.014254 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 03.prefab
-  artifactKey: Guid(e77e0cc663fcb87478fea9cd74d06682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Male Peasant Pack Cute Series/01 Customize Character Here/01 Drag Character Base to Scene/Fair/Fair Dusk Male Outfit Fan 03.prefab using Guid(e77e0cc663fcb87478fea9cd74d06682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22dbf70348c1bc541930f040df83c048') in 0.012533 seconds 
-  Import took 0.015453 seconds .
+  Time since last request: 0.000224 seconds.
+  path: Assets/ComponyCharacter/Textures/Body.png
+  artifactKey: Guid(6d8db620214bd9a4ab649f97a01f25e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Body.png using Guid(6d8db620214bd9a4ab649f97a01f25e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9de244892b2bd86c08fbd726d4e510') in 0.011783 seconds 
+  Import took 0.014257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Resources/Wood/bark_brown_02_rough_4k.jpg
+  artifactKey: Guid(95a2857a6e1afac449b5745fa92909c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Wood/bark_brown_02_rough_4k.jpg using Guid(95a2857a6e1afac449b5745fa92909c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e885e9028caf29f881e6bc45692a0c') in 0.015196 seconds 
+  Import took 0.017564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Acc_MetallicSmoothness.png
+  artifactKey: Guid(b225db6ec9e76af409192fa152ccdd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Acc_MetallicSmoothness.png using Guid(b225db6ec9e76af409192fa152ccdd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bd01c379e0e2878e634d75067d7a4f') in 0.011746 seconds 
+  Import took 0.014055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 777.419659 seconds.
+  path: Assets/Male Peasant Pack Cute Series
+  artifactKey: Guid(20ad080bf1c68f24294992d3667e6918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series using Guid(20ad080bf1c68f24294992d3667e6918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa33be48d7d89f17af6322d8aef73eb8') in 0.005468 seconds 
+  Import took 0.009105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.227579 seconds.
+  path: Assets/ComponyCharacter
+  artifactKey: Guid(a788a9a36491d3f4a876be060f56d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter using Guid(a788a9a36491d3f4a876be060f56d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b393146a893088c4f8f74e40981b6d4') in 0.006995 seconds 
+  Import took 0.009534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.421920 seconds.
+  path: Assets/Polybrush Data
+  artifactKey: Guid(225125c5c06f1964cb3225e1242c86b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polybrush Data using Guid(225125c5c06f1964cb3225e1242c86b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf47c77156bfe2b73d85542ad474de3a') in 0.005695 seconds 
+  Import took 0.008282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.255598 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(b633ce973a96b3c408eef47a6796293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(b633ce973a96b3c408eef47a6796293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f284971b7eda6dfdf21883e28ff205a') in 0.005726 seconds 
+  Import took 0.008471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000862 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(b633ce973a96b3c408eef47a6796293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(b633ce973a96b3c408eef47a6796293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f284971b7eda6dfdf21883e28ff205a') in 0.001840 seconds 
+  Import took 0.004248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.305273 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '239a9ca87e08f591d1bcc73a933c546f') in 0.021653 seconds 
+  Import took 0.024129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.821810 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd593bf2d080a6edd0657dd6d6cd3f95c') in 0.008924 seconds 
+  Import took 0.011495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.888099 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7fe44c17e136fa8a8d43cacd9ac011') in 0.010857 seconds 
+  Import took 0.013305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.280727 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af64a9858ec9ad552ee2a84e7ab84f89') in 0.012103 seconds 
+  Import took 0.014569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.433628 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e006ec7968632ed3f30b02f6d913a7') in 0.014724 seconds 
+  Import took 0.017277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.213704 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3d10daea3380db77ce4796b2bbdc03') in 0.009768 seconds 
+  Import took 0.012305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.667907 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color 1.tga
+  artifactKey: Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color 1.tga using Guid(b9fc3b444bf886f40951179432b2fa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e3d9e2497a4d15b981d0816ff76940') in 0.009026 seconds 
+  Import took 0.011565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.268218 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color_MaskMap.tga
+  artifactKey: Guid(70330884467b8f8499fa9bbd725ab477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color_MaskMap.tga using Guid(70330884467b8f8499fa9bbd725ab477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1e32b11a284444496dc1d7c0c1fb16') in 0.012562 seconds 
+  Import took 0.015002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001074 seconds.
+  path: Assets/Robot Kyle/Textures/Robot_Color_MaskMap.tga
+  artifactKey: Guid(70330884467b8f8499fa9bbd725ab477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Textures/Robot_Color_MaskMap.tga using Guid(70330884467b8f8499fa9bbd725ab477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1e32b11a284444496dc1d7c0c1fb16') in 0.017242 seconds 
+  Import took 0.019645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1471.276980 seconds.
+  path: Assets/New Post-processing Profile.asset
+  artifactKey: Guid(ffacc4c95df20714eb34345b18c6228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Post-processing Profile.asset using Guid(ffacc4c95df20714eb34345b18c6228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba485b41452f3b68932816491c56794') in 0.008349 seconds 
+  Import took 0.011439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/New Post-processing Profile.asset
+  artifactKey: Guid(ffacc4c95df20714eb34345b18c6228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Post-processing Profile.asset using Guid(ffacc4c95df20714eb34345b18c6228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba485b41452f3b68932816491c56794') in 0.002383 seconds 
+  Import took 0.004963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.111352 seconds.
+  path: Assets/Scenes/ZBuffer.unity
+  artifactKey: Guid(beef7cca8b3565f49a0d04cf6b18bbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ZBuffer.unity using Guid(beef7cca8b3565f49a0d04cf6b18bbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80de3028476d7e383e520a78c0b90d11') in 0.005583 seconds 
+  Import took 0.008474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.760348 seconds.
+  path: Assets/Shader/0629
+  artifactKey: Guid(854b555d27689bb45b3306e7ae77cfa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0629 using Guid(854b555d27689bb45b3306e7ae77cfa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea549e662a304e0d3fda0ad787d674e') in 0.005336 seconds 
+  Import took 0.008202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Shader/0629
+  artifactKey: Guid(854b555d27689bb45b3306e7ae77cfa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0629 using Guid(854b555d27689bb45b3306e7ae77cfa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea549e662a304e0d3fda0ad787d674e') in 0.001801 seconds 
+  Import took 0.004121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.359302 seconds.
+  path: Assets/Materials/Color
+  artifactKey: Guid(4d1caac4bf1c67540878864baf3ba34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Color using Guid(4d1caac4bf1c67540878864baf3ba34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a25270dc376a16ca9d0c72ea395742') in 0.007284 seconds 
+  Import took 0.009804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 837.433464 seconds.
+  path: Assets/Shader/0725/0725Depth.shader
+  artifactKey: Guid(c86fa1526a6ae6b45a4c44da9ccee2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0725/0725Depth.shader using Guid(c86fa1526a6ae6b45a4c44da9ccee2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c75da79ff3d99b73a734ed37d761297') in 0.011324 seconds 
+  Import took 0.015103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.071776 seconds.
+  path: Assets/Shader/0725/0725Depth.shader
+  artifactKey: Guid(c86fa1526a6ae6b45a4c44da9ccee2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0725/0725Depth.shader using Guid(c86fa1526a6ae6b45a4c44da9ccee2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c75da79ff3d99b73a734ed37d761297') in 0.003999 seconds 
+  Import took 0.007307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4882.305185 seconds.
+  path: Assets/Scenes/AlphaBland.unity
+  artifactKey: Guid(3426ba6c7cb77d74dbc72b4516cd4ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AlphaBland.unity using Guid(3426ba6c7cb77d74dbc72b4516cd4ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4983413f946ade8d64979aaa33e1c9b7') in 0.006238 seconds 
+  Import took 0.009418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.740712 seconds.
+  path: Assets/Scenes/ZBuffer.unity
+  artifactKey: Guid(beef7cca8b3565f49a0d04cf6b18bbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ZBuffer.unity using Guid(beef7cca8b3565f49a0d04cf6b18bbc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f432dc63545b07ab66a27fc0b82404') in 0.002496 seconds 
+  Import took 0.005292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.198132 seconds.
+  path: Assets/Scenes/AlphaBlend.unity
+  artifactKey: Guid(3426ba6c7cb77d74dbc72b4516cd4ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AlphaBlend.unity using Guid(3426ba6c7cb77d74dbc72b4516cd4ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a421ebfde7c6e74a58ac8054a8149e') in 0.005269 seconds 
+  Import took 0.007885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.038212 seconds.
+  path: Assets/Shader/0725/0725AlphaBlend.shader
+  artifactKey: Guid(bb60e2aeafd4a084ca507b7fde7abe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0725/0725AlphaBlend.shader using Guid(bb60e2aeafd4a084ca507b7fde7abe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d022f27bc69adccde1024f295c67b75') in 0.007784 seconds 
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.005829 seconds.
+  path: Assets/Shader/0725/0725AlphaBlend.shader
+  artifactKey: Guid(bb60e2aeafd4a084ca507b7fde7abe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0725/0725AlphaBlend.shader using Guid(bb60e2aeafd4a084ca507b7fde7abe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d06c4053f7bdf1c126ad9f8a2a9a2d5') in 0.003011 seconds 
+  Import took 0.006002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.709727 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Shoes_MetallicSmoothness.png
+  artifactKey: Guid(9f3b3743eb886624b9c6b67800933041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Shoes_MetallicSmoothness.png using Guid(9f3b3743eb886624b9c6b67800933041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd126e50dd1cc6944545969c7b6d29bcc') in 0.030167 seconds 
+  Import took 0.033022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ComponyCharacter/Textures/Female_01_Top_MetallicSmoothness.png
+  artifactKey: Guid(9ee2a3c3acba08742b622aa704e5ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Female_01_Top_MetallicSmoothness.png using Guid(9ee2a3c3acba08742b622aa704e5ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b53ee9fc9adbfff3e306510b27642f') in 0.035839 seconds 
+  Import took 0.038124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.211043 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/FX Aura.psd
+  artifactKey: Guid(d13125be2f1789c4989370478d20fee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/FX Aura.psd using Guid(d13125be2f1789c4989370478d20fee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ca136ba818605959efe3a8f4dcc1ed') in 0.014609 seconds 
+  Import took 0.017417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001746 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/FX Aura.psd
+  artifactKey: Guid(d13125be2f1789c4989370478d20fee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/FX Aura.psd using Guid(d13125be2f1789c4989370478d20fee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ca136ba818605959efe3a8f4dcc1ed') in 0.005390 seconds 
+  Import took 0.008036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078889 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Dark.psd
+  artifactKey: Guid(0de9e396a30ebf346bedab6900cc4b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Dark.psd using Guid(0de9e396a30ebf346bedab6900cc4b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b236e330233ce61028e62023bbf88571') in 0.011594 seconds 
+  Import took 0.014430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Light.psd
+  artifactKey: Guid(adbdc4444c226aa42a01786a62b158fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Light.psd using Guid(adbdc4444c226aa42a01786a62b158fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d9e66000fef4dcd9cb0992d960cf43') in 0.010916 seconds 
+  Import took 0.013534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Dark.psd
+  artifactKey: Guid(0de9e396a30ebf346bedab6900cc4b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Hair Dark.psd using Guid(0de9e396a30ebf346bedab6900cc4b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b236e330233ce61028e62023bbf88571') in 0.004152 seconds 
+  Import took 0.006619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ComponyCharacter/Textures/Male_01_Hair.png
+  artifactKey: Guid(90f1a2047fead984596cf3f827e26d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Textures/Male_01_Hair.png using Guid(90f1a2047fead984596cf3f827e26d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182516ee155570a1113d9ecac7d4c362') in 0.012136 seconds 
+  Import took 0.014871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.475525 seconds.
+  path: Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png
+  artifactKey: Guid(2b592d40fd47980478920e3ed65b0985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png using Guid(2b592d40fd47980478920e3ed65b0985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1092a26488bd99b81f68f36eb711679f') in 0.027332 seconds 
+  Import took 0.030097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Resources/BookResource/P6_check 1.jpg
+  artifactKey: Guid(e7606d3c446735a4a80c155493b4fd7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/P6_check 1.jpg using Guid(e7606d3c446735a4a80c155493b4fd7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb0ef76bcc71b1f17322a47d14d2c90') in 0.012150 seconds 
+  Import took 0.014615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png
+  artifactKey: Guid(2b592d40fd47980478920e3ed65b0985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png using Guid(2b592d40fd47980478920e3ed65b0985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1092a26488bd99b81f68f36eb711679f') in 0.006764 seconds 
+  Import took 0.009122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Resources/BookResource/P6_check.jpg
+  artifactKey: Guid(aeb456e5be771e14fbe1a4913a1a085d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/P6_check.jpg using Guid(aeb456e5be771e14fbe1a4913a1a085d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541c2e8c31483c1a56c7689472f1f54f') in 0.012363 seconds 
+  Import took 0.014884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Resources/BookResource/noise2.png
+  artifactKey: Guid(7166907d50111de4b86b5bb8cd4a5a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/noise2.png using Guid(7166907d50111de4b86b5bb8cd4a5a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2906a694d50ce6d37b49eaca9de562fe') in 0.011248 seconds 
+  Import took 0.013933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1539.586624 seconds.
+  path: Assets/Zombie/PantsALpha1.png
+  artifactKey: Guid(99d05c1d2e2e2894b8e5b0c896fe9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/PantsALpha1.png using Guid(99d05c1d2e2e2894b8e5b0c896fe9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4fb167bbef5d2d29f2258c9ddf4d7e') in 0.024501 seconds 
+  Import took 0.028519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png
+  artifactKey: Guid(f45a39483cf4f914a816af821c9262bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png using Guid(f45a39483cf4f914a816af821c9262bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356c2c7a84ee427620e017f4956bf190') in 0.070901 seconds 
+  Import took 0.073773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png
+  artifactKey: Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png using Guid(9e1a2edf6149977479db158e4fbf9671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a5140a566b39f209e8369bc10de447') in 0.067502 seconds 
+  Import took 0.070309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png
+  artifactKey: Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png using Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ae5e63d5f45d08813efb76691e85f3') in 0.055620 seconds 
+  Import took 0.058153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png
+  artifactKey: Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png using Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3b0627c1899114a3ee8ca8cdf6a0bd') in 0.043161 seconds 
+  Import took 0.045663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png
+  artifactKey: Guid(8fb98a6035269e64a998f9b56828fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png using Guid(8fb98a6035269e64a998f9b56828fc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd084e12126f98be409ba8b6225f48dd9') in 0.064187 seconds 
+  Import took 0.066731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png
+  artifactKey: Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png using Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3900ecfe98b5f076e437f60a10d4aab7') in 0.050856 seconds 
+  Import took 0.053323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png
+  artifactKey: Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png using Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32113a1f94ab25412ac52013d3720e1d') in 0.049026 seconds 
+  Import took 0.051615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png
+  artifactKey: Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png using Guid(d40c191aa46654db7a426d6a1fa3aa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3900ecfe98b5f076e437f60a10d4aab7') in 0.052365 seconds 
+  Import took 0.054792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png
+  artifactKey: Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png using Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32113a1f94ab25412ac52013d3720e1d') in 0.042603 seconds 
+  Import took 0.045283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.161561 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Dark.psd
+  artifactKey: Guid(933f1be8135958b46a6eff346dc82f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Dark.psd using Guid(933f1be8135958b46a6eff346dc82f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e504a0cf9a4bf36d92bf110edeafb') in 0.012899 seconds 
+  Import took 0.015856 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000206 seconds.
-  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab
-  artifactKey: Guid(54eb5844754051b40a918a84c33b7c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab using Guid(54eb5844754051b40a918a84c33b7c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7424e4bdc50fca3e0410b6b9374033da') in 0.108495 seconds 
-  Import took 0.113098 seconds .
+  path: Assets/Zombie/ZombieHQ_material4_Normal.png
+  artifactKey: Guid(695a1ea4055ea724a9fe6f586b6f8b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material4_Normal.png using Guid(695a1ea4055ea724a9fe6f586b6f8b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eedcb3a77529e449148e18bc6695366') in 0.013255 seconds 
+  Import took 0.015896 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 48.331595 seconds.
-  path: Assets/Scenes/CubeMapReflection.unity
-  artifactKey: Guid(bc13f86204b5e1540b5c5201aa5fbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/CubeMapReflection.unity using Guid(bc13f86204b5e1540b5c5201aa5fbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb4c18a532db5b103afae70ef48fb25') in 0.005582 seconds 
-  Import took 0.008105 seconds .
+  Time since last request: 0.000254 seconds.
+  path: Assets/Zombie/ZombieHQ_material2_Normal.png
+  artifactKey: Guid(dc2f72bdfc98cd84aad52cfaa078767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material2_Normal.png using Guid(dc2f72bdfc98cd84aad52cfaa078767b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67322bd34acd04aa755ace3c1456f616') in 0.013323 seconds 
+  Import took 0.016452 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 245.340690 seconds.
-  path: Assets/Shader
-  artifactKey: Guid(2ebfa65caee310c4ba81db1aea34627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader using Guid(2ebfa65caee310c4ba81db1aea34627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10cba45304afd785015b2837d28c9a2') in 0.006995 seconds 
-  Import took 0.009904 seconds .
+  Time since last request: 0.000150 seconds.
+  path: Assets/Zombie/ZombieHQ_material4_Ambient.png
+  artifactKey: Guid(c69d72f6d7d8ce441bf3c62474f67ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material4_Ambient.png using Guid(c69d72f6d7d8ce441bf3c62474f67ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94db78eceb7208aaa53338ce24a35f8f') in 0.014373 seconds 
+  Import took 0.016708 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Shader
-  artifactKey: Guid(2ebfa65caee310c4ba81db1aea34627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader using Guid(2ebfa65caee310c4ba81db1aea34627a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10cba45304afd785015b2837d28c9a2') in 0.001993 seconds 
-  Import took 0.004467 seconds .
+  Time since last request: 0.000135 seconds.
+  path: Assets/Zombie/ZombieHQ_material5_SpecularSmoothness.png
+  artifactKey: Guid(e402fb688ec666544a7ef9df891ecce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material5_SpecularSmoothness.png using Guid(e402fb688ec666544a7ef9df891ecce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd697eb98a97445c1dce67ff622cbb2f9') in 0.011584 seconds 
+  Import took 0.013931 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.711632 seconds.
-  path: Assets/Shader/0725
-  artifactKey: Guid(ad66ab0793f9a7746b0da3cef32ae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/0725 using Guid(ad66ab0793f9a7746b0da3cef32ae97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1cce8e7ebd4ca911de4047bcac2ed2') in 0.005558 seconds 
-  Import took 0.008015 seconds .
+  Time since last request: 0.000178 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Weapons and Props.psd
+  artifactKey: Guid(acea781ff18af2440b81f63dbff32eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Weapons and Props.psd using Guid(acea781ff18af2440b81f63dbff32eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26346355c4a6e96199e65dbd0692412') in 0.012892 seconds 
+  Import took 0.015539 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.441355 seconds.
-  path: Assets/Shader/CustomVertexColor.shader
-  artifactKey: Guid(e0bf866797e28224ab9f02ef5f2d41fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/CustomVertexColor.shader using Guid(e0bf866797e28224ab9f02ef5f2d41fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174dd5e8576d50be68401da850a93e7c') in 0.006058 seconds 
-  Import took 0.008608 seconds .
+  Time since last request: 0.000211 seconds.
+  path: Assets/Zombie/ZombieHQ_material3_AlbedoTransparency.png
+  artifactKey: Guid(0681959c5e335c04693f0b935262bd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material3_AlbedoTransparency.png using Guid(0681959c5e335c04693f0b935262bd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c103d656d72557ba46c1db82295b660') in 0.012787 seconds 
+  Import took 0.015596 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.297041 seconds.
-  path: Assets/Shader/0725/0725Reflection.shader
-  artifactKey: Guid(8fde1d74c24079c49be8e2ee3f00067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shader/0725/0725Reflection.shader using Guid(8fde1d74c24079c49be8e2ee3f00067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56458825bf87e59725e6b89679be09e7') in 0.006686 seconds 
-  Import took 0.009644 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/Zombie/ZombieHQ_material3_Normal.png
+  artifactKey: Guid(e0bf1fec1bff6014f974eb150ea88a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material3_Normal.png using Guid(e0bf1fec1bff6014f974eb150ea88a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14757324a267dd090eac16faeb9e6611') in 0.013613 seconds 
+  Import took 0.016324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Zombie/ZombieHQ_material4_SpecularSmoothness.png
+  artifactKey: Guid(93d91a99518976e46972d16af5434ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material4_SpecularSmoothness.png using Guid(93d91a99518976e46972d16af5434ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4698cffc88043d1442192ff85ace5d40') in 0.012599 seconds 
+  Import took 0.015224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Zombie/ZombieHQ_material_SpecularSmoothness.png
+  artifactKey: Guid(7606e79301f96b94283724c98af12b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material_SpecularSmoothness.png using Guid(7606e79301f96b94283724c98af12b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4907e1801e791fb6f0ca4db8ae4b9005') in 0.011959 seconds 
+  Import took 0.014635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Zombie/ZombieHQ_material4_Albedo.png
+  artifactKey: Guid(5f60206366258a44283d339cfc86fe36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material4_Albedo.png using Guid(5f60206366258a44283d339cfc86fe36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf0e1beec9c61857465a61d2c808fbb') in 0.013525 seconds 
+  Import took 0.016642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Zombie/ZombieHQ_material_AlbedoTransparency.png
+  artifactKey: Guid(151ae436a1d801e4899d48bfb5a51b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material_AlbedoTransparency.png using Guid(151ae436a1d801e4899d48bfb5a51b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bfaefa5fc01be495a55b2691e9ce46') in 0.012708 seconds 
+  Import took 0.015278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Fire.psd
+  artifactKey: Guid(9c35a33aeb4d87346b439f5472d9493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Fire.psd using Guid(9c35a33aeb4d87346b439f5472d9493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b23280356b879eb20ecdbc2fac6619') in 0.014874 seconds 
+  Import took 0.017238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Zombie/ZombieHQ_material4_AlbedoTransparency.png
+  artifactKey: Guid(128ba07b003881744906ecaf500ffda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material4_AlbedoTransparency.png using Guid(128ba07b003881744906ecaf500ffda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaaf75c6823a9f1ae8c3321aaa4cd087') in 0.014404 seconds 
+  Import took 0.017031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Zombie/ZombieHQ_material5_AlbedoTransparency.png
+  artifactKey: Guid(998b2830dc23b0a4ca3c2222f3189e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material5_AlbedoTransparency.png using Guid(998b2830dc23b0a4ca3c2222f3189e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6405ea7fa09513b1027bec2aacd6ff') in 0.012528 seconds 
+  Import took 0.015191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Zombie/ZombieHQ_material3_SpecularSmoothness.png
+  artifactKey: Guid(620a5d36ab23ed4469b5dd0130cc476b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material3_SpecularSmoothness.png using Guid(620a5d36ab23ed4469b5dd0130cc476b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36617b40756c9bbb849ff669b0ebc6f') in 0.012516 seconds 
+  Import took 0.014932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Zombie/ZombieHQ_material1_Normal.png
+  artifactKey: Guid(3c364b9e825bbdf4fae1af569d4625c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material1_Normal.png using Guid(3c364b9e825bbdf4fae1af569d4625c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fce5884730b83fbef9e053caf85176d') in 0.013131 seconds 
+  Import took 0.015986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Zombie/ZombieHQ_material2_AlbedoTransparency.png
+  artifactKey: Guid(6e9609c6db0464d4a8bd422bf2fcfa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material2_AlbedoTransparency.png using Guid(6e9609c6db0464d4a8bd422bf2fcfa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c45885bb35441da7a75d46a4eed12d') in 0.012948 seconds 
+  Import took 0.015957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Zombie/ZombieHQ_material2_SpecularSmoothness.png
+  artifactKey: Guid(e863a9f88e0d66340a36588dc183895c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material2_SpecularSmoothness.png using Guid(e863a9f88e0d66340a36588dc183895c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e049f3e731996924899958ebb5b9e178') in 0.013464 seconds 
+  Import took 0.015783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Zombie/ZombieHQ_material5_Ambient.png
+  artifactKey: Guid(eb70aaf60ac05cc46bc17a6c29fa9c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material5_Ambient.png using Guid(eb70aaf60ac05cc46bc17a6c29fa9c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ccca1a7b22503809008da922e10abea') in 0.014261 seconds 
+  Import took 0.016579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Zombie/ZombieHQ_material3_Ambient.png
+  artifactKey: Guid(db7bc194c1a8ce549bee814c383f4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material3_Ambient.png using Guid(db7bc194c1a8ce549bee814c383f4c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e27704d28888ce0ae4f709ae98915b3') in 0.015845 seconds 
+  Import took 0.018076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Zombie/ZombieHQ_material5_Normal.png
+  artifactKey: Guid(ebb0326825875774bb968bcb321a4450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material5_Normal.png using Guid(ebb0326825875774bb968bcb321a4450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02ddac5db2b5abeeaa416a9bc7dd680') in 0.014185 seconds 
+  Import took 0.016455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Nature.psd
+  artifactKey: Guid(966b64cc8141bc64b800df1872e3ffa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Nature.psd using Guid(966b64cc8141bc64b800df1872e3ffa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2033a8bfc8bc61b691e4b3ddb798b91') in 0.013159 seconds 
+  Import took 0.015790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Dark.psd
+  artifactKey: Guid(933f1be8135958b46a6eff346dc82f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Dark.psd using Guid(933f1be8135958b46a6eff346dc82f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8e504a0cf9a4bf36d92bf110edeafb') in 0.005197 seconds 
+  Import took 0.007620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Zombie/ZombieHQ_material1_SpecularSmoothness.png
+  artifactKey: Guid(7162887a63702284c8edbf5fb6453dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material1_SpecularSmoothness.png using Guid(7162887a63702284c8edbf5fb6453dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3749400d4bfb53b9fcf3ab63136a87') in 0.012448 seconds 
+  Import took 0.015399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Zombie/ZombieHQ_material_Normal.png
+  artifactKey: Guid(ea6af3ca700f73e4e889b63e1f03e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material_Normal.png using Guid(ea6af3ca700f73e4e889b63e1f03e2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f59789a998980653ab37cc1bcb4b39d') in 0.013724 seconds 
+  Import took 0.016518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Zombie/ZombieHQ_material2_Ambient.png
+  artifactKey: Guid(a758fcce7530d564b9a37bab98695a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieHQ_material2_Ambient.png using Guid(a758fcce7530d564b9a37bab98695a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b493bbcd94f3f5cb86abd030549ea26') in 0.013010 seconds 
+  Import took 0.015717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.247116 seconds.
+  path: Assets/Texture/Switch.png
+  artifactKey: Guid(770e6836dadd7d848955557e66617229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Switch.png using Guid(770e6836dadd7d848955557e66617229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82f4ca87c801a41ead88026a8dc7d23') in 0.021422 seconds 
+  Import took 0.024647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Aqua.psd
+  artifactKey: Guid(d153864031d501344b6db5f6b5632751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Aqua.psd using Guid(d153864031d501344b6db5f6b5632751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605675394e6d0f246028f6f2d49210ef') in 0.014011 seconds 
+  Import took 0.016903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Texture/Switch.png
+  artifactKey: Guid(770e6836dadd7d848955557e66617229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Switch.png using Guid(770e6836dadd7d848955557e66617229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82f4ca87c801a41ead88026a8dc7d23') in 0.021038 seconds 
+  Import took 0.023457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007445 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Aqua.psd
+  artifactKey: Guid(d153864031d501344b6db5f6b5632751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Textures/Tan Aqua.psd using Guid(d153864031d501344b6db5f6b5632751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605675394e6d0f246028f6f2d49210ef') in 0.005781 seconds 
+  Import took 0.008187 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,1343 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1826; Version 2009; 64bit' Language: 'ko' Physical Memory: 16251 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Jung/GitHub/MyShaderZone/06ShaderStudy
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49550
+Successfully changed project path to: C:/Jung/GitHub/MyShaderZone/06ShaderStudy
+C:/Jung/GitHub/MyShaderZone/06ShaderStudy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Jung/GitHub/MyShaderZone/06ShaderStudy/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5992 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001132 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.673 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.8 MB.
+System memory in use after: 106.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 1.615200 ms (FindLiveObjects: 0.122900 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.191500 ms  DeleteObjects: 0.256000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Character
+  artifactKey: Guid(83097201b84b5fe40946881e2d34fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character using Guid(83097201b84b5fe40946881e2d34fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542855cc062455d6fceb95fa9c5eee42') in 0.006323 seconds 
+  Import took 0.008558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.597957 seconds.
+  path: Assets/Skybox/Cubemaps/daytime.hdr
+  artifactKey: Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/Cubemaps/daytime.hdr using Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb427ba40e367adf0b23fdbdf247f2b') in 0.124865 seconds 
+  Import took 0.129647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000809 seconds.
+  path: Assets/Skybox/Cubemaps/daytime.hdr
+  artifactKey: Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/Cubemaps/daytime.hdr using Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb427ba40e367adf0b23fdbdf247f2b') in 0.041853 seconds 
+  Import took 0.045778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.316604 seconds.
+  path: Assets/Skybox/Cubemaps/sunset.hdr
+  artifactKey: Guid(656a59a5ff93c46498416d97e5c16b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/Cubemaps/sunset.hdr using Guid(656a59a5ff93c46498416d97e5c16b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a201dbb728d5646453874acd065ba12') in 0.033717 seconds 
+  Import took 0.038218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.069111 seconds.
+  path: Assets/Resources/BookResource/fireTest.tga
+  artifactKey: Guid(00ec0fe77b58bac4b90b9fb3c220428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/fireTest.tga using Guid(00ec0fe77b58bac4b90b9fb3c220428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f882f11c3773386f62fa54fd9e7f0f1') in 0.020279 seconds 
+  Import took 0.023459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Resources/BookResource/4_2.tga
+  artifactKey: Guid(968554bc686ed23438494f8630c489ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/4_2.tga using Guid(968554bc686ed23438494f8630c489ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db72da32d5a19afdac799acd5e494b32') in 0.033701 seconds 
+  Import took 0.036134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Resources/BookResource/fireTest.tga
+  artifactKey: Guid(00ec0fe77b58bac4b90b9fb3c220428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BookResource/fireTest.tga using Guid(00ec0fe77b58bac4b90b9fb3c220428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f882f11c3773386f62fa54fd9e7f0f1') in 0.025334 seconds 
+  Import took 0.028162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396230 seconds.
+  path: Assets/Materials/0721
+  artifactKey: Guid(daf4e19b1ef1c8d409e974a128b7744d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0721 using Guid(daf4e19b1ef1c8d409e974a128b7744d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2272c685a234b6c45292fb09dbce6c6f') in 0.002158 seconds 
+  Import took 0.004737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.855399 seconds.
+  path: Assets/Shader/0725/0725Reflection.shader
+  artifactKey: Guid(8fde1d74c24079c49be8e2ee3f00067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0725/0725Reflection.shader using Guid(8fde1d74c24079c49be8e2ee3f00067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a554b9514784fda9ec4b2865067eab3d') in 0.003762 seconds 
+  Import took 0.006750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.643590 seconds.
+  path: Assets/Zombie/Materials/RetopoPantsUV_TXTR.mat
+  artifactKey: Guid(69f7719c2bd8a6540bb130ebffc99fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/RetopoPantsUV_TXTR.mat using Guid(69f7719c2bd8a6540bb130ebffc99fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad60c13694edcfb4b60d9187357ce8d6') in 0.025257 seconds 
+  Import took 0.028282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SampleScenes/Models/Materials/SpaceshipHull.mat
+  artifactKey: Guid(35e2b94eb1006514abf8ae501b17f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Models/Materials/SpaceshipHull.mat using Guid(35e2b94eb1006514abf8ae501b17f4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb63ef7da6e94efc9bf4563cdaf1fe94') in 0.045186 seconds 
+  Import took 0.047714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Materials/Test0629.mat
+  artifactKey: Guid(98355a576d1462a47be690eabc0c318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629.mat using Guid(98355a576d1462a47be690eabc0c318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184ac675ffa00d4fd9d6923ecd9a00d1') in 0.013421 seconds 
+  Import took 0.015843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/SampleScenes/Materials/TurquoiseSmooth.mat
+  artifactKey: Guid(735665606fda0c14cb12bc536aa26dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/TurquoiseSmooth.mat using Guid(735665606fda0c14cb12bc536aa26dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5639d072f744efb21201c7aa7afd7ac') in 0.019516 seconds 
+  Import took 0.021917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Materials/Test0629_Fire.mat
+  artifactKey: Guid(56418d867fe671346a0931a24a8cdfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_Fire.mat using Guid(56418d867fe671346a0931a24a8cdfc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4d9ddc5056f24b33c929b141fc840f') in 0.014912 seconds 
+  Import took 0.017301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Nature.mat
+  artifactKey: Guid(4ec42e2d15e863b4dbb2f00ac77082c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Nature.mat using Guid(4ec42e2d15e863b4dbb2f00ac77082c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997e4be84c9caa9502b4686349b6f9eb') in 0.009860 seconds 
+  Import took 0.012271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat
+  artifactKey: Guid(84b9e1d19d11078d11005b9844295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat using Guid(84b9e1d19d11078d11005b9844295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0f9a3fb0d58fe3ce11d05cf67f6709') in 0.032587 seconds 
+  Import took 0.034941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Pure.mat
+  artifactKey: Guid(480384a325cd61948bd7aee9be5da191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Pure.mat using Guid(480384a325cd61948bd7aee9be5da191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb633135a1c3d291764e240fb6901eb') in 0.008694 seconds 
+  Import took 0.011373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Materials/0701/Test0701Fresnel.mat
+  artifactKey: Guid(06578c6fe9808a3408ac12765a61e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0701/Test0701Fresnel.mat using Guid(06578c6fe9808a3408ac12765a61e4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de1f82d39864ee60579decffad10600') in 0.014535 seconds 
+  Import took 0.017144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat
+  artifactKey: Guid(52b7d70b1de7c4ce09662b77c14d9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat using Guid(52b7d70b1de7c4ce09662b77c14d9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5bb2a0322ccf95999b893d3160de1a') in 0.033532 seconds 
+  Import took 0.035989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Materials/0630/Test0630CustomLight.mat
+  artifactKey: Guid(5e3f1653ffaef804da5450ced921fe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0630/Test0630CustomLight.mat using Guid(5e3f1653ffaef804da5450ced921fe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb62bd2bcf94a84f6e5c4e90365ede5') in 0.014090 seconds 
+  Import took 0.016431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+  artifactKey: Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat using Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44af48cff6dd7884ffccf501f42167b4') in 0.034964 seconds 
+  Import took 0.037506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Zombie/Materials/ZombieHQ_material4_Albedo.mat
+  artifactKey: Guid(7fb5b7b4daec2254baa1da46b77a079d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/ZombieHQ_material4_Albedo.mat using Guid(7fb5b7b4daec2254baa1da46b77a079d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d5fe96c253c9f4f02764cdbd2b9017') in 0.012916 seconds 
+  Import took 0.015315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Materials/Character/SwitchBG.mat
+  artifactKey: Guid(c3eb8867049a5ba4aa2f8e92b1ff18c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/SwitchBG.mat using Guid(c3eb8867049a5ba4aa2f8e92b1ff18c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d8090968a921d5986c540616df1f7a') in 0.015412 seconds 
+  Import took 0.018000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat
+  artifactKey: Guid(f1bc741ea0e69a241896582ddb633d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat using Guid(f1bc741ea0e69a241896582ddb633d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5682cc302f4f75802080e4b3860758') in 0.008425 seconds 
+  Import took 0.010828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat
+  artifactKey: Guid(215977489d11178d11005b9844295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat using Guid(215977489d11178d11005b9844295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfb022357844e3d8aac6da4cca06285') in 0.028756 seconds 
+  Import took 0.031333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Skybox/Materials/Skybox_Sunset.mat
+  artifactKey: Guid(4067de1a02072244798361060c5e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/Materials/Skybox_Sunset.mat using Guid(4067de1a02072244798361060c5e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3904dbd85d40d94cef9b517a2b836709') in 0.054514 seconds 
+  Import took 0.058279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat
+  artifactKey: Guid(c9e6294c9d11cb8d11006bf944295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat using Guid(c9e6294c9d11cb8d11006bf944295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f048c586c47a47ea128d32018181c7ae') in 0.078322 seconds 
+  Import took 0.080685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/TrailSkid.mat
+  artifactKey: Guid(f4dd0bba6decdd5418fd3d541ff5f7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/TrailSkid.mat using Guid(f4dd0bba6decdd5418fd3d541ff5f7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0206eae22bb685ce3f9dc8ec8d25e988') in 0.026312 seconds 
+  Import took 0.028906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat
+  artifactKey: Guid(d425c5c4cb38fd44f95b13e9f94575c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat using Guid(d425c5c4cb38fd44f95b13e9f94575c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb4224e406668518769dc7c8e664a81') in 0.013066 seconds 
+  Import took 0.015467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/SampleScenes/Materials/SkyboxProcedural.mat
+  artifactKey: Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/SkyboxProcedural.mat using Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e5adb720fb696fed23639ac1c24172') in 0.010444 seconds 
+  Import took 0.012927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Robot Kyle/Materials/Robot_Color.mat
+  artifactKey: Guid(0aa851515cd3747d6b3b3e461199a2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Materials/Robot_Color.mat using Guid(0aa851515cd3747d6b3b3e461199a2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b590fd8b513983950068ba63d3bf82') in 0.010278 seconds 
+  Import took 0.012968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightGlows.mat
+  artifactKey: Guid(3682f7747d485db4586750a832808b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightGlows.mat using Guid(3682f7747d485db4586750a832808b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2a8cb11feba82b109292a2e4ed93fa') in 0.013797 seconds 
+  Import took 0.016360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat
+  artifactKey: Guid(6021947067b9d6c4bac8d9e085a71558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat using Guid(6021947067b9d6c4bac8d9e085a71558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ae7bae26f137473a39b4748a3f5294') in 0.009690 seconds 
+  Import took 0.012104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/SampleScenes/Materials/YellowSmooth.mat
+  artifactKey: Guid(61bcea22404bda2469670dd9255037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/YellowSmooth.mat using Guid(61bcea22404bda2469670dd9255037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0986ead4a3f3fbc916380d1c7d79ba0') in 0.009197 seconds 
+  Import took 0.011848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Fire.mat
+  artifactKey: Guid(86a07518b53b13b469a3f752a8836a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Fire.mat using Guid(86a07518b53b13b469a3f752a8836a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d621c25243cb671292279e99aed2130') in 0.010004 seconds 
+  Import took 0.012544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Zombie/Materials/RetopoPantsUV_TXTR.mat
+  artifactKey: Guid(69f7719c2bd8a6540bb130ebffc99fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/RetopoPantsUV_TXTR.mat using Guid(69f7719c2bd8a6540bb130ebffc99fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad60c13694edcfb4b60d9187357ce8d6') in 0.005506 seconds 
+  Import took 0.008174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Materials/Test0629_VC2.mat
+  artifactKey: Guid(25538a11851be4d489048721b1e22eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_VC2.mat using Guid(25538a11851be4d489048721b1e22eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2357223d4c2e1a235c17dcebc4ffd160') in 0.014159 seconds 
+  Import took 0.016715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat
+  artifactKey: Guid(965a4c3cf8f0acb408f15384c947b3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat using Guid(965a4c3cf8f0acb408f15384c947b3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317f4f4798478cbd38e9f68d75d563dd') in 0.010258 seconds 
+  Import took 0.012765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Dark.mat
+  artifactKey: Guid(4360653e63b9db04ab1e4dd7670b3183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Dark.mat using Guid(4360653e63b9db04ab1e4dd7670b3183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcaf30484f4c853381bbf307f82d3a83') in 0.009661 seconds 
+  Import took 0.012809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Zombie/Materials/ZombieHQ_material_AlbedoTransparency.mat
+  artifactKey: Guid(11deda9a2ce04bf47a65f12b3fe4f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/ZombieHQ_material_AlbedoTransparency.mat using Guid(11deda9a2ce04bf47a65f12b3fe4f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b660e2897cdaf71c91224164a099e78f') in 0.010597 seconds 
+  Import took 0.013117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat
+  artifactKey: Guid(6ec41f7c0e0d3fb40933551a4124b211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat using Guid(6ec41f7c0e0d3fb40933551a4124b211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cd7c9eadb6ae0da3717462d1a47727') in 0.013078 seconds 
+  Import took 0.015717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat
+  artifactKey: Guid(6e1d36c4bbd37d54f9ea183e4f5fd656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat using Guid(6e1d36c4bbd37d54f9ea183e4f5fd656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76196ee849840c70798a1f72456d4b9') in 0.009156 seconds 
+  Import took 0.011603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Standard Assets/2D/Materials/SpriteLit.mat
+  artifactKey: Guid(272ba847f100d4251bb8260575189042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Materials/SpriteLit.mat using Guid(272ba847f100d4251bb8260575189042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76844d57e756e888d2973204c549657b') in 0.010537 seconds 
+  Import took 0.012998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat
+  artifactKey: Guid(a3384ef3e2313034f9016ad8a1f3999f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat using Guid(a3384ef3e2313034f9016ad8a1f3999f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c965e769d1e2fa14d36e75f590d17e6') in 0.097836 seconds 
+  Import took 0.100321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Zombie/Materials/material.002.mat
+  artifactKey: Guid(cea1ddb23a509a744b1e84cdbe208b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/material.002.mat using Guid(cea1ddb23a509a744b1e84cdbe208b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15559b7451eecc59f2b1655f22e4cd30') in 0.008847 seconds 
+  Import took 0.011801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Zombie/Materials/material.005.mat
+  artifactKey: Guid(5c58162bb014ebb4a9c8f7de54db385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/material.005.mat using Guid(5c58162bb014ebb4a9c8f7de54db385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004f2099fee0bbf508c24898a4cd80a6') in 0.014604 seconds 
+  Import took 0.017638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Zombie/Materials/ZombieHQ_material5_AlbedoTransparency.mat
+  artifactKey: Guid(8037d301b260d214fbea59e83e088904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/ZombieHQ_material5_AlbedoTransparency.mat using Guid(8037d301b260d214fbea59e83e088904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fe6a5725dfa7ee904a390a63ebe8c0') in 0.012013 seconds 
+  Import took 0.014828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Orange.mat
+  artifactKey: Guid(9c1514246885b9a40986ae70e86b9c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Orange.mat using Guid(9c1514246885b9a40986ae70e86b9c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03470e55626967ad4dfa7f191ce43ce2') in 0.010162 seconds 
+  Import took 0.012906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Grey.mat
+  artifactKey: Guid(ad424f61db6d13745a757175204c5b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Grey.mat using Guid(ad424f61db6d13745a757175204c5b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9fa2bd2c54428393d33eef374989e66') in 0.010467 seconds 
+  Import took 0.012975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Brown.mat
+  artifactKey: Guid(82724d203eb9e7b44808338d84896f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Brown.mat using Guid(82724d203eb9e7b44808338d84896f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c90597c42d8dbe01e075f8a94c44c5') in 0.009748 seconds 
+  Import took 0.012339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Materials/0630/Test0630_Lambert.mat
+  artifactKey: Guid(d83393a80a80c8945bb3a95e2f0a3b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0630/Test0630_Lambert.mat using Guid(d83393a80a80c8945bb3a95e2f0a3b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3c02476919c5db837c83d08e75815c') in 0.015502 seconds 
+  Import took 0.018039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Zombie/Materials/material.003.mat
+  artifactKey: Guid(d56403f38c9dac8488e18148e65a9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/material.003.mat using Guid(d56403f38c9dac8488e18148e65a9df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58022e7c5d7bc00f936925200c48677d') in 0.010386 seconds 
+  Import took 0.012903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat
+  artifactKey: Guid(82096aab38f01cb40a1cbf8629a810ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat using Guid(82096aab38f01cb40a1cbf8629a810ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b9bce2e965e2a177fa4df0af6f7cdd') in 0.018995 seconds 
+  Import took 0.021389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Materials/Test0629_uv.mat
+  artifactKey: Guid(7a1a12ff78a06e545a9b09173186d138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_uv.mat using Guid(7a1a12ff78a06e545a9b09173186d138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf356982cdd108753102b18a69cd4c6') in 0.012840 seconds 
+  Import took 0.015403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat
+  artifactKey: Guid(06893cec523208643a91b7a393737700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat using Guid(06893cec523208643a91b7a393737700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c4c569b59a270791c6c41fc817339a') in 0.284619 seconds 
+  Import took 0.286878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Materials/0701/Test0701HoloGram.mat
+  artifactKey: Guid(6dddb34d71969af4999f94a069c23b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0701/Test0701HoloGram.mat using Guid(6dddb34d71969af4999f94a069c23b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b36a3ff15d41198bb7e796371df287') in 0.013157 seconds 
+  Import took 0.015813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Blonde.mat
+  artifactKey: Guid(dbc08af7080176f499377a7397537306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Blonde.mat using Guid(dbc08af7080176f499377a7397537306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95810c623b89548a4571bae349937a77') in 0.008849 seconds 
+  Import took 0.011231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Grey.mat
+  artifactKey: Guid(93a4c16d2fa42684b97c969160e5a5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Grey.mat using Guid(93a4c16d2fa42684b97c969160e5a5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fddf03d0fd86b4e59dfe3aea3169671') in 0.008108 seconds 
+  Import took 0.011109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Orange.mat
+  artifactKey: Guid(e4d88460544f0444bae5a65dcde5b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Orange.mat using Guid(e4d88460544f0444bae5a65dcde5b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b69438505558b331c69232419c03740') in 0.010099 seconds 
+  Import took 0.012779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat
+  artifactKey: Guid(5c6bda52f548c164381f24c22067e446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat using Guid(5c6bda52f548c164381f24c22067e446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b6c26197bb26fe0d1b3cabdfa536ca') in 0.028143 seconds 
+  Import took 0.030815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat
+  artifactKey: Guid(8c1755df5f552e843b9f8485f72e71f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat using Guid(8c1755df5f552e843b9f8485f72e71f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1197e71756a4566dd11cc5c29ce6ccf1') in 0.194705 seconds 
+  Import took 0.197126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat
+  artifactKey: Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat using Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3d071ef5284dde80abdeaf70a7589c') in 0.034768 seconds 
+  Import took 0.038004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Materials/0722/0722TestFace.mat
+  artifactKey: Guid(d6fb33f59d6dbcc468c75af9edf3824f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestFace.mat using Guid(d6fb33f59d6dbcc468c75af9edf3824f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12209a29a2ca9a26a6ef1de2c6c1512a') in 0.010157 seconds 
+  Import took 0.012705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat
+  artifactKey: Guid(365a29a7757a91544b92d59a78390495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat using Guid(365a29a7757a91544b92d59a78390495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b76b9006daba3726981f4379d4d75c') in 0.030751 seconds 
+  Import took 0.034126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat
+  artifactKey: Guid(1092dd21af768cb499771bf88709dbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat using Guid(1092dd21af768cb499771bf88709dbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d83860f492c210f86a41f5efe2b0c82') in 0.021143 seconds 
+  Import took 0.023578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Grey.mat
+  artifactKey: Guid(6f68e99ad295fbe4781613d59cc14de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Grey.mat using Guid(6f68e99ad295fbe4781613d59cc14de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48fb7391ece0e2a2f4fec9b6c7f0c6e') in 0.008392 seconds 
+  Import took 0.011093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Brown.mat
+  artifactKey: Guid(695188a5b7079a142a92c5078eacf831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Brown.mat using Guid(695188a5b7079a142a92c5078eacf831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f022929f0e79a16b7137f6946e72fe3c') in 0.008521 seconds 
+  Import took 0.011163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Materials/0722/0722TestBottom.mat
+  artifactKey: Guid(0576161eb30347644b60e8a5cfa53b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestBottom.mat using Guid(0576161eb30347644b60e8a5cfa53b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e5f5765b549085ddc23684ef7e8f69') in 0.019272 seconds 
+  Import took 0.021688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat
+  artifactKey: Guid(9cc96cc80c50454429965171ff4e500d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat using Guid(9cc96cc80c50454429965171ff4e500d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcb86cb23b240b30949f6b23eccb56f') in 0.031083 seconds 
+  Import took 0.035667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Materials/Character/CharTop.mat
+  artifactKey: Guid(413afde5cb4cc7e4c8bcb46aff5885cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharTop.mat using Guid(413afde5cb4cc7e4c8bcb46aff5885cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac43721d9497d0155469d3c610f595c') in 0.014274 seconds 
+  Import took 0.016873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ComponyCharacter/Female_01 220722.fbx
+  artifactKey: Guid(9768425572ec14443ae4cacd3ac426b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Female_01 220722.fbx using Guid(9768425572ec14443ae4cacd3ac426b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50593c6b7f9be28dabdceccdc6f9ab0f') in 0.080276 seconds 
+  Import took 0.082970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Grey.mat
+  artifactKey: Guid(451322ab8f708184d83f130356dcebc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Grey.mat using Guid(451322ab8f708184d83f130356dcebc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f8a6dc5824d877d0896edefda755ac') in 0.009402 seconds 
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Aqua.mat
+  artifactKey: Guid(7d64267e5eb8ca74d8c9c25ffd8dcd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Aqua.mat using Guid(7d64267e5eb8ca74d8c9c25ffd8dcd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a143c02dd111b49fb59bea79bbcda60') in 0.009395 seconds 
+  Import took 0.011908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Blonde.mat
+  artifactKey: Guid(87e67fa05d1590b4a929c9700355c0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Blonde.mat using Guid(87e67fa05d1590b4a929c9700355c0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57af1296364dbd44b29a7cef55efcdee') in 0.008934 seconds 
+  Import took 0.011623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Brown.mat
+  artifactKey: Guid(302b258549df3a647bc96d72e927bed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Brown.mat using Guid(302b258549df3a647bc96d72e927bed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bf2d4192c974646f234e1beb3a8452') in 0.008434 seconds 
+  Import took 0.011086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat
+  artifactKey: Guid(39baceec69bb1ee4fb4194d50e1a6d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat using Guid(39baceec69bb1ee4fb4194d50e1a6d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45f431cfe11bb16a634c9aee3536f22') in 0.010235 seconds 
+  Import took 0.012700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat
+  artifactKey: Guid(d5b08f0e43171dd468f4fed8bb5d0cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat using Guid(d5b08f0e43171dd468f4fed8bb5d0cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc903bc7fc6fb04b8396ed2cc225d37') in 0.012617 seconds 
+  Import took 0.015881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Orange.mat
+  artifactKey: Guid(75060dba742f2f94b8726af8a3b05781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Orange.mat using Guid(75060dba742f2f94b8726af8a3b05781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd79108213164f9ace92339e37bf8c8') in 0.008522 seconds 
+  Import took 0.011149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Orange.mat
+  artifactKey: Guid(3f7aafce9309b2d4f8bf48e4a9fa3be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Orange.mat using Guid(3f7aafce9309b2d4f8bf48e4a9fa3be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d0d58e6e6d3d1bcdeb8afa07758f61') in 0.008214 seconds 
+  Import took 0.011100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/FX Aura.mat
+  artifactKey: Guid(a9247cb6dec109c419b0c99ce76da041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/FX Aura.mat using Guid(a9247cb6dec109c419b0c99ce76da041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b66020caad7c006aa51f8f4e23eb75') in 0.015849 seconds 
+  Import took 0.018387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Materials/Test0629_VC.mat
+  artifactKey: Guid(c0b1dfaa6c3b979459e0c95913d3cf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_VC.mat using Guid(c0b1dfaa6c3b979459e0c95913d3cf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0866a2f985b15b256ca505be3e71fb3d') in 0.020810 seconds 
+  Import took 0.023305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Materials/0630/Test0720CustomHologram.mat
+  artifactKey: Guid(443c0ed78fc7a2b45b03f520f8ad795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0630/Test0720CustomHologram.mat using Guid(443c0ed78fc7a2b45b03f520f8ad795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b91fb3b03d7c407ef1ddaecb586094c') in 0.012133 seconds 
+  Import took 0.014601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Materials/0722/0722TestHair.mat
+  artifactKey: Guid(0d6361182c3b2c94aba9880a166ac1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestHair.mat using Guid(0d6361182c3b2c94aba9880a166ac1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e3cd981fa4f0ff52fb97d878dacd6b') in 0.008559 seconds 
+  Import took 0.011048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat
+  artifactKey: Guid(26d8bdbc8646bde48b05fbaacaaa6577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat using Guid(26d8bdbc8646bde48b05fbaacaaa6577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0240348254aa0320d7a5eae9f5ab737') in 0.263546 seconds 
+  Import took 0.266049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Zombie/Materials/material.001.mat
+  artifactKey: Guid(4f7dd35b97b0ca8498b0839be5ef4ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/material.001.mat using Guid(4f7dd35b97b0ca8498b0839be5ef4ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e3f740b599b50afc1dbd2afdd3167f') in 0.011700 seconds 
+  Import took 0.014397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Weapons and Props.mat
+  artifactKey: Guid(35c81461f83c1864599cad9751c3cef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Weapons and Props.mat using Guid(35c81461f83c1864599cad9751c3cef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd58cac59c37a558dd2813f790955850') in 0.009149 seconds 
+  Import took 0.011705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/SampleScenes/Materials/TealSmooth.mat
+  artifactKey: Guid(ee9f7b84e86227a4fadc5e7f42e84b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/TealSmooth.mat using Guid(ee9f7b84e86227a4fadc5e7f42e84b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffc876d7a4f269f95df386c312940f7') in 0.008975 seconds 
+  Import took 0.011460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat
+  artifactKey: Guid(d4880c932a8e12b48a3039233e9634a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat using Guid(d4880c932a8e12b48a3039233e9634a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacdc4bd62334ba2ac1d32f020e2dfb2') in 0.010036 seconds 
+  Import took 0.012436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat
+  artifactKey: Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat using Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4282ba07941da9794ecefca1a12f6ef7') in 0.034317 seconds 
+  Import took 0.038095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat
+  artifactKey: Guid(e625f56663597ef4899f86b588b4d506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat using Guid(e625f56663597ef4899f86b588b4d506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25038592aac97b4fa781cb0cc8dd2a4f') in 0.007050 seconds 
+  Import took 0.009710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Cute series demo assets/Ground.mat
+  artifactKey: Guid(f37ea2bd19136a2469ed0e0758f4ce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Cute series demo assets/Ground.mat using Guid(f37ea2bd19136a2469ed0e0758f4ce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80067fd2e87f2ae9c0b86746e67926d') in 0.009678 seconds 
+  Import took 0.012907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Materials/Character/CharHair.mat
+  artifactKey: Guid(5f89b5534ea6bd945bd9d587c74036eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharHair.mat using Guid(5f89b5534ea6bd945bd9d587c74036eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83d22933e26781c8a16ef01d9b6b00c') in 0.009971 seconds 
+  Import took 0.012494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Materials/Character/CharAcc.mat
+  artifactKey: Guid(7c8122ece9543884a8042bfb2ae4f73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharAcc.mat using Guid(7c8122ece9543884a8042bfb2ae4f73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2abc9bb503f5dae0013929a60e96467') in 0.013769 seconds 
+  Import took 0.016772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Materials/0721/0721NPR.mat
+  artifactKey: Guid(ea8a1d8cb0838214392e66b68368c23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0721/0721NPR.mat using Guid(ea8a1d8cb0838214392e66b68368c23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd88a6e0e127e881c40387c197120c5a') in 0.014679 seconds 
+  Import took 0.017041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat
+  artifactKey: Guid(f5a209142cf260f4a96ca747e0e4dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat using Guid(f5a209142cf260f4a96ca747e0e4dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3548c6891d05e8e691e808624ea089ee') in 0.008665 seconds 
+  Import took 0.011884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Night.mat
+  artifactKey: Guid(6672d08674dda0c439ab9e3410ad3ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Night.mat using Guid(6672d08674dda0c439ab9e3410ad3ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8915714acecf23433d1342122b9f16e') in 0.008711 seconds 
+  Import took 0.011203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Brown.mat
+  artifactKey: Guid(d94bb7403ed7ce742aaaaa7ced255fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Brown.mat using Guid(d94bb7403ed7ce742aaaaa7ced255fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dd90534cf29a24cd521f89bd7b3f5e') in 0.009586 seconds 
+  Import took 0.012196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Materials/Color/VertexColor.mat
+  artifactKey: Guid(545c89d4e05950248875b3011452c8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Color/VertexColor.mat using Guid(545c89d4e05950248875b3011452c8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a1c5e2ac9ab0b15182f584a218c401') in 0.014553 seconds 
+  Import took 0.017259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Bark.mat
+  artifactKey: Guid(a58b9e6a338a8ec4db433a01e5f2107d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Bark.mat using Guid(a58b9e6a338a8ec4db433a01e5f2107d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592b839117e0cd60834eadacea3d4d41') in 0.010318 seconds 
+  Import took 0.013051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Materials/Test0629Surface.mat
+  artifactKey: Guid(0a7641a815ae19a4fb3d6653d2981126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629Surface.mat using Guid(0a7641a815ae19a4fb3d6653d2981126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d93139d2f1b25161e805a5622b0092b') in 0.010351 seconds 
+  Import took 0.012909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat
+  artifactKey: Guid(c45f0afbf9669834d9bac06fb9f06fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat using Guid(c45f0afbf9669834d9bac06fb9f06fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c298b859ad686731733b1f61f303eef') in 0.009116 seconds 
+  Import took 0.011591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Zombie/Materials/ZombieHQ_material1_Normal.mat
+  artifactKey: Guid(54d41ff0c753125498e7b0c67db124ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/ZombieHQ_material1_Normal.mat using Guid(54d41ff0c753125498e7b0c67db124ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1c4bdef43398d8553660a2539dd9d0') in 0.011303 seconds 
+  Import took 0.013932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat
+  artifactKey: Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat using Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dd575334f8a0d4b228c4b3d0934abb') in 0.051907 seconds 
+  Import took 0.054251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Materials/0722/0722TestAcc.mat
+  artifactKey: Guid(5a41e2af0c4b13a469e2fa64eeb8f282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestAcc.mat using Guid(5a41e2af0c4b13a469e2fa64eeb8f282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beab8905b63f750b0703c07a36d6f598') in 0.009063 seconds 
+  Import took 0.011554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Skybox/Materials/Skybox_Daytime.mat
+  artifactKey: Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/Materials/Skybox_Daytime.mat using Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e92cd3eb0b0e92a7c839cb7bfeb0b4') in 0.032924 seconds 
+  Import took 0.037115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Aqua.mat
+  artifactKey: Guid(cfd6aa3629cb83240856b88a91bc72b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Tan Aqua.mat using Guid(cfd6aa3629cb83240856b88a91bc72b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3801750b71a7cbd0143ba2c9767c87') in 0.010450 seconds 
+  Import took 0.013123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/SampleScenes/Materials/WhiteUnlit.mat
+  artifactKey: Guid(432d27f28c1251041bd6d1753602d5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/WhiteUnlit.mat using Guid(432d27f28c1251041bd6d1753602d5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f07588b1a1e672139add24c7785f57f') in 0.011027 seconds 
+  Import took 0.013590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Black.mat
+  artifactKey: Guid(8c7d2736272b07e4797eaac2208a336f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 02 Black.mat using Guid(8c7d2736272b07e4797eaac2208a336f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb391a49400da52e93cc24d7a00aca9') in 0.008115 seconds 
+  Import took 0.010795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Bark.mat
+  artifactKey: Guid(4a5248c4c9644104d95560a503400cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Bark.mat using Guid(4a5248c4c9644104d95560a503400cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fefcb532bf0fe57a163054bedb0d81b') in 0.009959 seconds 
+  Import took 0.012412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Materials/0721/0721Wrap.mat
+  artifactKey: Guid(e901baabe05658840932b52a8b2423c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0721/0721Wrap.mat using Guid(e901baabe05658840932b52a8b2423c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a114249fc8c1deea1c90cdc3b55e3b5d') in 0.012129 seconds 
+  Import took 0.014490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Materials/Character/CharBody.mat
+  artifactKey: Guid(8e28ffae895f6034f8b9a7790a6e46ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharBody.mat using Guid(8e28ffae895f6034f8b9a7790a6e46ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b196edd0ab72fcd17487b2e99a26b4a') in 0.009953 seconds 
+  Import took 0.012543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat
+  artifactKey: Guid(ef1216aa37a0cc249a6a6f5abbd25665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat using Guid(ef1216aa37a0cc249a6a6f5abbd25665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8a24241be12a66907c0e109ba2d65b') in 0.033970 seconds 
+  Import took 0.038073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Dusk.mat
+  artifactKey: Guid(86d37c26e7ac13741afa33e964421ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Dusk.mat using Guid(86d37c26e7ac13741afa33e964421ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83af3179576981b20e51694ca3b4cd9d') in 0.013053 seconds 
+  Import took 0.015609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat
+  artifactKey: Guid(4be5b19d42487c24f830c4ee36849a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat using Guid(4be5b19d42487c24f830c4ee36849a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ede4b00524a97f73df27fc355c73831') in 0.008968 seconds 
+  Import took 0.011590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat
+  artifactKey: Guid(42672579dbdf2c8449598d21e2c569ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat using Guid(42672579dbdf2c8449598d21e2c569ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f40133986bd05e5f620a3de9abb0c5') in 0.032687 seconds 
+  Import took 0.037046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat
+  artifactKey: Guid(54ee8e39b634b6d45aae528b6b24e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat using Guid(54ee8e39b634b6d45aae528b6b24e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c702bff75a9256a19ef06b7976d14cf2') in 0.009502 seconds 
+  Import took 0.012127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Materials/Color/Black.mat
+  artifactKey: Guid(71e40d8725a6b234eb05326da80e3239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Color/Black.mat using Guid(71e40d8725a6b234eb05326da80e3239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff14c6fc154b1ebbf216be7a77121c4') in 0.009212 seconds 
+  Import took 0.012049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Blonde.mat
+  artifactKey: Guid(00f1926fd45a9a642a30331ba3a02f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Blonde.mat using Guid(00f1926fd45a9a642a30331ba3a02f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caddf062d56bfe83e9a512e49b3aea44') in 0.009030 seconds 
+  Import took 0.011694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Materials/0722/0722TestShoes.mat
+  artifactKey: Guid(308f774f7650f56439bda407f1fc4146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestShoes.mat using Guid(308f774f7650f56439bda407f1fc4146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acc5b6674135cd7fb928e81a76521d4') in 0.008765 seconds 
+  Import took 0.011258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat
+  artifactKey: Guid(cd764ab8662bea6468202df8741bcfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat using Guid(cd764ab8662bea6468202df8741bcfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd471df536167b2fefc5221c7fd65e27') in 0.009326 seconds 
+  Import took 0.011879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Blonde.mat
+  artifactKey: Guid(6589af13a8bc72e46827f7de8af8de1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Blonde.mat using Guid(6589af13a8bc72e46827f7de8af8de1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bf453195d65e3f9cc74fdbbe1ed4db') in 0.009544 seconds 
+  Import took 0.012592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Nature.mat
+  artifactKey: Guid(d027e556141828245a28e5cffcfd23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Nature.mat using Guid(d027e556141828245a28e5cffcfd23d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1a9484774cb0cc875087a66e858fed') in 0.010329 seconds 
+  Import took 0.013320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Materials/Character/CharBottom.mat
+  artifactKey: Guid(aef1a291831e6964eb5714be11a4d492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharBottom.mat using Guid(aef1a291831e6964eb5714be11a4d492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31aabb99aa0a5fe879e07087dfb392e2') in 0.012189 seconds 
+  Import took 0.014781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+  artifactKey: Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat using Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845089109a4e13231a756b29e7c3c288') in 0.033450 seconds 
+  Import took 0.037330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Materials/0721/0721NPR2.mat
+  artifactKey: Guid(54534b9f851ade543b4fef83014c7b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0721/0721NPR2.mat using Guid(54534b9f851ade543b4fef83014c7b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82622d6b5bb544f2b5f6983e9f2dae0') in 0.010883 seconds 
+  Import took 0.013277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Materials/0722/0722TestTop.mat
+  artifactKey: Guid(2acd00c74e093034ab1deb9a3ba4ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722TestTop.mat using Guid(2acd00c74e093034ab1deb9a3ba4ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0526f292294961a30b474280eeaac410') in 0.008327 seconds 
+  Import took 0.010968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Pure.mat
+  artifactKey: Guid(06fbd548b3357e24a9a870a2d3210bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Pure.mat using Guid(06fbd548b3357e24a9a870a2d3210bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f442da73e64c41b1c48cf5bbbb3bea3') in 0.009564 seconds 
+  Import took 0.012235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Materials/0725/0725Reflection.mat
+  artifactKey: Guid(13739dad1f562ae41889375e0b2e8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0725/0725Reflection.mat using Guid(13739dad1f562ae41889375e0b2e8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357a1932ce1aa295254874d33c0c761b') in 0.033227 seconds 
+  Import took 0.037497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat
+  artifactKey: Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat using Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64396c089983deed9f70e8b3c6f432b1') in 0.033075 seconds 
+  Import took 0.037004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Dark.mat
+  artifactKey: Guid(8a9edcf2dbd584546b8aa4e4e90f445d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Dark.mat using Guid(8a9edcf2dbd584546b8aa4e4e90f445d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b88dc03f8c5bd3a69a8b8a215ad1b9') in 0.009581 seconds 
+  Import took 0.012153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Black.mat
+  artifactKey: Guid(14612870cb138e74bbc15d0c2b578007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 03 Black.mat using Guid(14612870cb138e74bbc15d0c2b578007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f02139bd51dba90f98257b643625f8') in 0.008882 seconds 
+  Import took 0.011426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Zombie/Materials/material.mat
+  artifactKey: Guid(1d124de7692a06d4891fbe5914ca0975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/Materials/material.mat using Guid(1d124de7692a06d4891fbe5914ca0975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5a409f6224a615f2b27a50e12146c7') in 0.008675 seconds 
+  Import took 0.011053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat
+  artifactKey: Guid(e633a20421c47426aa04444234225b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat using Guid(e633a20421c47426aa04444234225b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afb72c6ad9b4a9677a0f3b4edc9ba8b') in 0.011071 seconds 
+  Import took 0.013692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat
+  artifactKey: Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat using Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437651e109498d5cbfe0fe71f9cdfb69') in 0.059875 seconds 
+  Import took 0.062378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ComponyCharacter/Materials/Female_01_Hair.mat
+  artifactKey: Guid(5dea5d8c85eca5542a819baf0f0b4789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Materials/Female_01_Hair.mat using Guid(5dea5d8c85eca5542a819baf0f0b4789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07a0ce3603da52c98e4f8aafc39f011') in 0.009803 seconds 
+  Import took 0.012502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Materials/0630/Test0630_BlinPhong.mat
+  artifactKey: Guid(d46b490e21f9e794fab119d114463f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0630/Test0630_BlinPhong.mat using Guid(d46b490e21f9e794fab119d114463f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7ab3333d336fdbfbe9e6c4aab4b85b') in 0.010841 seconds 
+  Import took 0.013429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat
+  artifactKey: Guid(bf5faaa3a8e23de45bf1350be2893dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat using Guid(bf5faaa3a8e23de45bf1350be2893dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64549d13dcae86f736a853d570ee1945') in 0.020163 seconds 
+  Import took 0.022659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/SampleScenes/Models/Materials/Asteroid.mat
+  artifactKey: Guid(ace554b28b3c23448817bd8c63e751ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Models/Materials/Asteroid.mat using Guid(ace554b28b3c23448817bd8c63e751ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b4eca360a319605e31052b5b73d1ab') in 0.008772 seconds 
+  Import took 0.012122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat
+  artifactKey: Guid(30abebfd9bf1c49d8a2d26e61e66bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat using Guid(30abebfd9bf1c49d8a2d26e61e66bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81da08a78ba7327366778c698b8b7566') in 0.074212 seconds 
+  Import took 0.076732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Materials/Test0629_Fire2.mat
+  artifactKey: Guid(4d31f7455e3f5d84aa95d3da03730356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_Fire2.mat using Guid(4d31f7455e3f5d84aa95d3da03730356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e37a5c6b69a10b940bef250d2f945ee') in 0.015925 seconds 
+  Import took 0.018362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Materials/Test0629_lerp.mat
+  artifactKey: Guid(c4e1e700765814b479d7b02d789f512c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_lerp.mat using Guid(c4e1e700765814b479d7b02d789f512c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556d5bf8c2437ffafd0377fed3980d0e') in 0.013429 seconds 
+  Import took 0.015839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SampleScenes/Materials/WhiteSmooth.mat
+  artifactKey: Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleScenes/Materials/WhiteSmooth.mat using Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4e231986075785ea0fb7e5eba1f96d') in 0.013071 seconds 
+  Import took 0.015469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat
+  artifactKey: Guid(bfc1dabf45016eb46b99df1a78054924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat using Guid(bfc1dabf45016eb46b99df1a78054924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfd927b5042f02b312c0a961fcd2698') in 0.009411 seconds 
+  Import took 0.012169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat
+  artifactKey: Guid(b0d5705176a0d36419d034e2ea46491a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat using Guid(b0d5705176a0d36419d034e2ea46491a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b86ad09a7d142b2a6b46b99b22e9bb') in 0.009252 seconds 
+  Import took 0.011697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Materials/0722/0722Test.mat
+  artifactKey: Guid(d16acd6b10cef1e4688ab57ba98c838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0722/0722Test.mat using Guid(d16acd6b10cef1e4688ab57ba98c838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91dc1b7a8409cb814f159c8482f92b89') in 0.010785 seconds 
+  Import took 0.013242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat
+  artifactKey: Guid(bedcbcc4d577778478a5f01fe1415af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat using Guid(bedcbcc4d577778478a5f01fe1415af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb8cd7612b0cbd7fc978e3540121501') in 0.009765 seconds 
+  Import took 0.012254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat
+  artifactKey: Guid(c55afdc4a8a3b4890b07cc7d176510bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat using Guid(c55afdc4a8a3b4890b07cc7d176510bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8250e8102cc35c2052a93143fcec8993') in 0.009266 seconds 
+  Import took 0.011845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat
+  artifactKey: Guid(d68104aea3d1d084385a1acc7c896247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat using Guid(d68104aea3d1d084385a1acc7c896247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bdb1f4249b420be352d6006355724d6') in 0.008127 seconds 
+  Import took 0.010620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat
+  artifactKey: Guid(5d69df9d9d11e49d110086ba44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat using Guid(5d69df9d9d11e49d110086ba44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ae3e6a4445e9304d2ee81f83f923f9') in 0.010654 seconds 
+  Import took 0.013509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Dusk.mat
+  artifactKey: Guid(3d4b132bb5e4e6d47b0cabb60b5f0d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Tan Dusk.mat using Guid(3d4b132bb5e4e6d47b0cabb60b5f0d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9278c568a9f6facf81fa55127309dff') in 0.010669 seconds 
+  Import took 0.013212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Materials/Test0629_Occlusion.mat
+  artifactKey: Guid(bb6aee9e4345e80418d1ab604309b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Test0629_Occlusion.mat using Guid(bb6aee9e4345e80418d1ab604309b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1717743aa21613f8dd4d673bbb86b9') in 0.018026 seconds 
+  Import took 0.020495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Fire.mat
+  artifactKey: Guid(acfa2dc1ef192cb4391aecaaff8e192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Fair Fire.mat using Guid(acfa2dc1ef192cb4391aecaaff8e192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f224e3b08d21253aa4dccebee3f44a') in 0.009291 seconds 
+  Import took 0.012267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Night.mat
+  artifactKey: Guid(e6ed5272118da7640bc943f66611482f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials/Fair Night.mat using Guid(e6ed5272118da7640bc943f66611482f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ac90c4d0cbc3d45b70c619f7e2326b') in 0.008669 seconds 
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Black.mat
+  artifactKey: Guid(68b94f1fdd8a1864aafcd5db195df97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Face Male 01 Black.mat using Guid(68b94f1fdd8a1864aafcd5db195df97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e978e2410259304c5a6d181f929d6b78') in 0.008530 seconds 
+  Import took 0.010989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Materials/0721/0721CustomLight.mat
+  artifactKey: Guid(62ed2f4e5c061ca4387e65a4f8d35aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0721/0721CustomLight.mat using Guid(62ed2f4e5c061ca4387e65a4f8d35aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643bfec72d100267180a6a1ed4c2ee58') in 0.016689 seconds 
+  Import took 0.019195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Materials/Character/CharShoees.mat
+  artifactKey: Guid(9e81f2de8c20f3d4891c5de46e14fc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Character/CharShoees.mat using Guid(9e81f2de8c20f3d4891c5de46e14fc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33491f5bfb805eb1616fe629ca25d295') in 0.009874 seconds 
+  Import took 0.012627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Black.mat
+  artifactKey: Guid(998b2df159628e84bb56ab465f92ac32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Standard Assets Files/Materials/Hair Black.mat using Guid(998b2df159628e84bb56ab465f92ac32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef70d1cc11b8f937a05cbf68b61f7617') in 0.009704 seconds 
+  Import took 0.012328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ComponyCharacter/Materials/Female_01_Top_AlbedoTransparency.mat
+  artifactKey: Guid(f01f9bf2a62de814db9132acbb6e14a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ComponyCharacter/Materials/Female_01_Top_AlbedoTransparency.mat using Guid(f01f9bf2a62de814db9132acbb6e14a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b18bb49efa4b10593f303bc8f8ba270') in 0.008318 seconds 
+  Import took 0.010787 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

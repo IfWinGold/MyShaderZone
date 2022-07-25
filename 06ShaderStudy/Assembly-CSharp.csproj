@@ -80,12 +80,14 @@
     <None Include="Assets\Shader\0629\Test0629_Fire.shader" />
     <None Include="Assets\Shader\0701\Test0701HoloGram.shader" />
     <None Include="Assets\Shader\0629\Test0629.shader" />
+    <None Include="Assets\Shader\0725\0725Depth.shader" />
     <None Include="Assets\Shader\0630\Test0630_BlinnPhong.shader" />
     <None Include="Assets\Shader\0722\CharBottom.shader" />
     <None Include="Assets\Shader\0629\Test0629_VC.shader" />
     <None Include="Assets\Shader\0629\Test0629_VC2.shader" />
     <None Include="Assets\Shader\0629\Test0629_lerp.shader" />
     <None Include="Assets\Shader\0629\Test0629_Fire2.shader" />
+    <None Include="Assets\Shader\0725\0725AlphaBlend.shader" />
     <None Include="Assets\Shader\0720\0720CustomHologram.shader" />
     <None Include="Assets\Shader\0722\CharFace.shader" />
     <None Include="Assets\Shader\0629\Test0629_uv.shader" />
