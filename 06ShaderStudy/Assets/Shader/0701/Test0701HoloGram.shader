@@ -8,14 +8,13 @@ Shader "Custom/Test0701HoloGram"
         _FlashSpeed("FlashSpeed",Range(0,20)) = 5
         _Height("Height",Range(1,50)) = 30
     }
-    SubShader
-    {
-        Tags { "RenderType"="Opaque" "Queue" = "Transparent"}
+        SubShader
+        {
+            Tags { "RenderType" = "Transaprent" "Queue" = "Transparent"}
 
-        CGPROGRAM
-        #pragma surface surf nolight noambient alpha:fade
+            CGPROGRAM
+            #pragma surface surf nolight noambient alpha:fade
 
-        
         sampler2D _BumpMap;
         fixed4 _RimColor;
         float _RimPower;
@@ -31,9 +30,10 @@ Shader "Custom/Test0701HoloGram"
 
 
         void surf (Input IN, inout SurfaceOutput o)
-        {            
+        {               
             o.Normal = UnpackNormal(tex2D(_BumpMap,IN.uv_BumpMap));
             o.Emission = _RimColor;
+            //o.Emission = c.rgb;
             float rim = saturate(dot(o.Normal, IN.viewDir));         
             rim = pow(1 - rim,_RimPower) + pow(frac(IN.worldPos.g * 3 - _Time.y), _Height);;
             //Flash ¾øÀ½

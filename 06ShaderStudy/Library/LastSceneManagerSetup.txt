@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/AlphaBlend.unity
+- path: Assets/Scenes/Twinkle.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
