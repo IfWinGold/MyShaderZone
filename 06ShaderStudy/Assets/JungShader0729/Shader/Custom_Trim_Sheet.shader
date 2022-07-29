@@ -1,8 +1,7 @@
 Shader "Custom/Custom_Trim_Sheet"
 {
     Properties
-    {
-        _Color ("Color", Color) = (1,1,1,1)
+    {        
         _MainTex ("Albedo (RGB)", 2D) = "white" {}        
     }
     SubShader
@@ -24,14 +23,15 @@ Shader "Custom/Custom_Trim_Sheet"
 
         void surf (Input IN, inout SurfaceOutput o)
         {            
-            fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
+            fixed4 c = tex2D (_MainTex, IN.uv_MainTex);
             o.Albedo = c.rgb;                        
             o.Alpha = c.a;
         }
         float4 LightingTrimSheet(SurfaceOutput s, float3 lightDir, float3 viewDir, float atten)
         {
-            float4 final;
+            float4 final;            
             final = float4(0, 0, 0, 0);
+            final.rgb = lightDir.r;
             return final;
         }
         ENDCG
