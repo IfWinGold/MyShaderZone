@@ -12,7 +12,7 @@ Shader "Custom/RobotTwinkle"
         Tags { "RenderType"="Opaque" }        
 
         CGPROGRAM        
-        #pragma surface surf Lambert 
+        #pragma surface surf Lambert
         
         #pragma target 3.0
 

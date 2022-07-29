@@ -59,42 +59,42 @@
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_Upgrader.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\CodeInjection.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_ShaderGenerator.UIFeatures.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Tooltip.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ReorderableLayoutList.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderProperty.Implementations.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_MaterialInspector_PBS_SG.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_ShaderGeneratorUtils.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_MaterialInspector_SG.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_ShaderGenerator.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_ShaderUpdateUnityTime_Editor.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_MaterialInspector.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\MaterialLayer.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderGenerator2.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_RampGenerator.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\MaterialInspector_SG2.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_SmoothedNormalsUtility.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Serialization.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Importer\TCP2_ShaderPostProcessor.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\GlobalOptions.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_OutlineInspector.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Config.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Utils\TCP2_GUI.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Utils\TCP2_Utils.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Module.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Tooltip.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderProperty.Implementations.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_MaterialInspector_PBS_SG.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Importer\TCP2_ShaderImporter.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\SGUILayout.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_Menu.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_ShaderUpdateUnityTime_Editor.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderProperty.CustomMaterialProperty.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_MaterialInspector.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\MaterialLayer.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_MaterialInspector_SurfacePBS_SG.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderGenerator2.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_RampGenerator.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\MaterialInspector_Hybrid.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_MaterialInspector_PBS.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\MaterialInspector_SG2.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_SmoothedNormalsUtility.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\ShaderProperty.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Serialization.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Template.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Legacy\TCP2_Config.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Importer\TCP2_ShaderPostProcessor.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\GlobalOptions.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\TCP2_GradientManager.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\UIFeatures.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_OutlineInspector.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Config.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Inspectors\TCP2_GetPosOnWater_Editor.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Utils\TCP2_GUI.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Utils\TCP2_Utils.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Utils\TCP2_ExpressionParser.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Generator\Module.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\ToonyColorsPro.Editor.asmdef" />
@@ -345,14 +345,14 @@
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.5.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>Library\PackageCache\com.unity.render-pipelines.core@10.5.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.5.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>Library\PackageCache\com.unity.render-pipelines.core@10.5.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>

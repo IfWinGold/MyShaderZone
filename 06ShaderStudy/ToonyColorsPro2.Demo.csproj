@@ -57,16 +57,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Cat Demo Assets\Scripts\TCP2_Demo_Camera.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_Interactive_Environment.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_PBS.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_Interactive_Content.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Cat Demo Assets\Scripts\TCP2_Demo_GammaLinear.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_InvertedMaskImage.cs" />
-    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\SG2 Demo Assets\_Misc\TCP2_Demo_AutoRotate.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_View.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_AnimateMaterial.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Cat Demo Assets\Scripts\TCP2_Demo_Cat.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_Interactive_Environment.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_PBS.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_Interactive_Content.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\SG2 Demo Assets\_Misc\TCP2_Demo_AutoRotate.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_PBS_View.cs" />
     <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\Common Demo Assets\Scripts\TCP2_Demo_Interactive.cs" />
   </ItemGroup>
@@ -348,14 +348,14 @@
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.5.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>Library\PackageCache\com.unity.render-pipelines.core@10.5.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.5.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>Library\PackageCache\com.unity.render-pipelines.core@10.5.1\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
