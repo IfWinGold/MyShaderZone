@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Burning_Dissolve.unity
+- path: Assets/Scenes/World_map_ShaderTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
