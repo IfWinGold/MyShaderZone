@@ -62,9 +62,9 @@
     <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
+    <Compile Include="Assets\Script\Burning_Dissolve.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets\Script\Burning_Dissolve.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\SG2_Template_URP.txt" />
@@ -191,11 +191,13 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_BRDF.cginc" />
     <None Include="Assets\Shader\0629\Test0629_uv.shader" />
     <None Include="Assets\Shader\0722\CharClothes.shader" />
+    <None Include="Assets\JungShader0729\Shader\Custom_Trim_Sheet.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_OutlineOnly.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Water WindWaker.shader" />
     <None Include="Assets\Shader\0726\CustomAlphaBlending\CustomBlending_DstColor_Zero.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_CustomAmbient.txt" />
     <None Include="Assets\Shader\0726\CustomAlphaBlending\CustomBlending_problematic_Shader.shader" />
+    <None Include="Assets\JungShader0729\Shader\Custom_Glass.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Wind Animation.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Default.txt" />
     <None Include="Assets\Shader\0629\Test0629Surface.shader" />
