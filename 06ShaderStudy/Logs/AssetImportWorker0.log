@@ -15,11 +15,19 @@ C:/Jung/GitHub/MyShaderZone/06ShaderStudy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< Updated upstream
 61177
 Successfully changed project path to: C:/Jung/GitHub/MyShaderZone/06ShaderStudy
 C:/Jung/GitHub/MyShaderZone/06ShaderStudy
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 52.18 ms, found 2 plugins.
+=======
+52907
+Successfully changed project path to: C:/Users/jsu29/MyGit/GitHub/MyShaderZone/MyShaderZone/06ShaderStudy
+C:/Users/jsu29/MyGit/GitHub/MyShaderZone/MyShaderZone/06ShaderStudy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.12 ms, found 2 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
@@ -40,6 +48,7 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 Registered in 0.001125 seconds.
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 55.59 ms, found 2 plugins.
@@ -68,6 +77,35 @@ System memory in use after: 203.1 MB.
 
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3719.
 Total: 3.769000 ms (FindLiveObjects: 0.318000 ms CreateObjectMapping: 0.179500 ms MarkObjects: 2.168600 ms  DeleteObjects: 1.101500 ms)
+=======
+Registered in 0.002598 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.289 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1779 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.8 MB.
+System memory in use after: 105.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2219.
+Total: 2.731000 ms (FindLiveObjects: 0.196900 ms CreateObjectMapping: 0.074000 ms MarkObjects: 2.127600 ms  DeleteObjects: 0.331300 ms)
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -81,9 +119,145 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   path: Assets/Scenes/World_map_ShaderTest.unity
   artifactKey: Guid(5c4c4eb6f6ef76d4cb5ce52aae0839e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/World_map_ShaderTest.unity using Guid(5c4c4eb6f6ef76d4cb5ce52aae0839e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbe7ec7ccd399ff9ab754c45dc5d54e') in 0.012283 seconds 
   Import took 0.017025 seconds .
 
+=======
+  path: Assets/Scenes/DiffuseWarping.unity
+  artifactKey: Guid(3970d6c8eee142c45b2906b422da6862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DiffuseWarping.unity using Guid(3970d6c8eee142c45b2906b422da6862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bcb14e5c12fb1a58cbee3c9a4ad7c8') in 0.011861 seconds 
+  Import took 0.014270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 275.136562 seconds.
+  path: Assets/Shader/0724
+  artifactKey: Guid(4a93d1a41b447ac45b36452f6e4ab387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724 using Guid(4a93d1a41b447ac45b36452f6e4ab387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20fbede17a1a4f8b8de73cc9a401edf') in 0.003768 seconds 
+  Import took 0.006915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.409910 seconds.
+  path: Assets/Shader/0724/0724Warp.shader
+  artifactKey: Guid(a0281cbd7125a0346910100658bd52e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/0724Warp.shader using Guid(a0281cbd7125a0346910100658bd52e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a27f82e9a0c206dcdc7f60ddd7983e1') in 0.026859 seconds 
+  Import took 0.030116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266133 seconds.
+  path: Assets/Shader/0724/0724Warp.shader
+  artifactKey: Guid(a0281cbd7125a0346910100658bd52e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/0724Warp.shader using Guid(a0281cbd7125a0346910100658bd52e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a27f82e9a0c206dcdc7f60ddd7983e1') in 0.005641 seconds 
+  Import took 0.008514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.624456 seconds.
+  path: Assets/Materials/0724
+  artifactKey: Guid(13ca8bd0fe66b5c428d37b660416078c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0724 using Guid(13ca8bd0fe66b5c428d37b660416078c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65453d5131705042a4a4b4dbe544a54') in 0.003950 seconds 
+  Import took 0.006766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.238292 seconds.
+  path: Assets/Male Peasant Pack Cute Series/00 Tutorials
+  artifactKey: Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/00 Tutorials using Guid(b801b1a781d778640a75a9c77e1da797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7d464cee229333d530d033ae02ff7f') in 0.004318 seconds 
+  Import took 0.007273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.538557 seconds.
+  path: Assets/Zombie/ZombieRig.prefab
+  artifactKey: Guid(016e7bf62a334b6408f97e97b5e49ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zombie/ZombieRig.prefab using Guid(016e7bf62a334b6408f97e97b5e49ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb36eb6f43fce8dd139148ed784a407') in 0.152902 seconds 
+  Import took 0.156184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.567538 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01
+  artifactKey: Guid(8ea462509e7d0db448ad8c0d4ee89a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01 using Guid(8ea462509e7d0db448ad8c0d4ee89a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f3926a10464869e08a037547b85103') in 0.005006 seconds 
+  Import took 0.008461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.819736 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials
+  artifactKey: Guid(d5b80deb68f84d74497dd6b01420f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Addon Textures Pack 01/Materials using Guid(d5b80deb68f84d74497dd6b01420f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1e8d4c5a5f5777c523bbba859dda91') in 0.004116 seconds 
+  Import took 0.006977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.153125 seconds.
+  path: Assets/Male Peasant Pack Cute Series/FBX
+  artifactKey: Guid(c70ed08c253496c43a9662fe7578e1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/FBX using Guid(c70ed08c253496c43a9662fe7578e1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71484dbdb7d6a99d979069bd0799520b') in 0.004603 seconds 
+  Import took 0.007677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.369263 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Scenes
+  artifactKey: Guid(6fce005258e3841438d37f2745cd1cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Scenes using Guid(6fce005258e3841438d37f2745cd1cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dfff3a3a3455e4dc00c3f06a5854a4') in 0.004305 seconds 
+  Import took 0.007201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.261564 seconds.
+  path: Assets/Male Peasant Pack Cute Series/Cute series demo assets
+  artifactKey: Guid(0ec09d827ae35474ca125146e7c11343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Male Peasant Pack Cute Series/Cute series demo assets using Guid(0ec09d827ae35474ca125146e7c11343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a24d406770123af8732e3403d93111') in 0.004598 seconds 
+  Import took 0.007509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.702935 seconds.
+  path: Assets/Shader/0724/Fair Bark.psd
+  artifactKey: Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/Fair Bark.psd using Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368b988c50a226543cb1c48489a36b98') in 0.026389 seconds 
+  Import took 0.029336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.857940 seconds.
+  path: Assets/Shader/0724/Fair Bark.psd
+  artifactKey: Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/Fair Bark.psd using Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444864c3ccabb66e3b570176ca09dfd9') in 0.014830 seconds 
+  Import took 0.018884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.429746 seconds.
+  path: Assets/Shader/0724/Fair Bark.psd
+  artifactKey: Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/Fair Bark.psd using Guid(6aeb4a13f1b73d340aa424f3fd2490a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7e8fa5e95d1709a7f83c5fa20c7e65') in 0.044282 seconds 
+  Import took 0.047548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1917.660950 seconds.
+  path: Assets/Shader/0724/1_S166SSsIfoxwT7-2USKFdg.png
+  artifactKey: Guid(e5219fb3ae57f8f46815daca40620d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/1_S166SSsIfoxwT7-2USKFdg.png using Guid(e5219fb3ae57f8f46815daca40620d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fd719a49a5360a9b0090fce10e1f9e') in 0.060903 seconds 
+  Import took 0.064294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003074 seconds.
+  path: Assets/Shader/0724/1_S166SSsIfoxwT7-2USKFdg.png
+  artifactKey: Guid(e5219fb3ae57f8f46815daca40620d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/0724/1_S166SSsIfoxwT7-2USKFdg.png using Guid(e5219fb3ae57f8f46815daca40620d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fd719a49a5360a9b0090fce10e1f9e') in 0.007553 seconds 
+  Import took 0.010584 seconds .
+
+>>>>>>> Stashed changes
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

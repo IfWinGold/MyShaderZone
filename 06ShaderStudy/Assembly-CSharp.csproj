@@ -71,8 +71,12 @@
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Triplanar Sampling.txt" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Dissolve.shader" />
     <None Include="Assets\Shader\0721\0721NPR02.shader" />
+<<<<<<< Updated upstream
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline.shader" />
     <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_Behind_SM2.shader" />
+=======
+    <None Include="Assets\Shader\0724\0724Warp.shader" />
+>>>>>>> Stashed changes
     <None Include="Assets\Shader\0721\0721CustomLight.shader" />
     <None Include="Assets\Shader\CustomVertexColor.shader" />
     <None Include="Assets\Shader\0726\CustomAlphaBlending\CustomBlending_SrcAlpha_OneMinusSrcAlpha.shader" />
