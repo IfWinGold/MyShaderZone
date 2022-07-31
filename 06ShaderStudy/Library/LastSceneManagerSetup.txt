@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
-- path: Assets/Scenes/World_map_ShaderTest.unity
-=======
-- path: Assets/Scenes/DiffuseWarping.unity
->>>>>>> Stashed changes
+- path: Assets/Scenes/UnityPBR/PBR_CustomLight.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

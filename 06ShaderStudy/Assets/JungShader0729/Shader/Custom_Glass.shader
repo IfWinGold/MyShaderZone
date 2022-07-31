@@ -4,6 +4,7 @@ Shader "Custom/Custom_Glass"
 
     Properties
     {        
+        _Color("MainColor",Color) = (1,1,1,1)
         _MainTex ("Albedo (RGB)", 2D) = "white" {}
         _GlossTex("Gloss Tex",2D) = "white"{}
         _BumpMap("NormalMap",2D) = "bump"{}
@@ -30,6 +31,7 @@ Shader "Custom/Custom_Glass"
         float _Smooth;
         float _SpecPow;
         float _GlossPow;
+        float4 _Color;
         float4 _SpecCol;
 
         struct Input
@@ -48,7 +50,7 @@ Shader "Custom/Custom_Glass"
             float4 re = texCUBE(_Cube, WorldReflectionVector(IN, o.Normal));
 
             o.Normal = UnpackNormal(tex2D(_BumpMap, IN.uv_BumpMap));            
-            o.Albedo = c.rgb * 0.5;
+            o.Albedo = (c.rgb * 0.5)* _Color;
             o.Emission = re.rgb * 0.5;      
             o.Gloss = m.a * _GlossPow;
             o.Alpha = c.a;
